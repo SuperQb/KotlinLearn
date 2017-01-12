@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="F:/KotlinDemo/app/src/main/res/layout/activity_main2.xml" timestamp="1484034407268">
@@ -55,6 +55,10 @@
       </file>
       <file name="D:/android/sdk/sources/android-23/android/view/View.java" timestamp="1483438614398">
         <mark key="'" line="7423" column="16" />
+      </file>
+      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/misc/SettingActivity.java" timestamp="1484210436375">
+        <mark key="'" line="109" column="44" />
+        <mark key="[" line="109" column="46" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yy.android.yyprotosdk/yyprotosdk/4.2.0/76886010730a085057f9d6121b0670d0499e5e20/yyprotosdk-4.2.0-sources.jar!/com/yyproto/outlet/LoginRequest.java" timestamp="1483432466533">
         <mark key="'" line="138" column="32" />
@@ -207,6 +211,8 @@
       <jump line="79" column="22" filename="D:/android/sdk/sources/android-25/android/content/Context.java" />
       <jump line="24" column="13" filename="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/Main2Activity.kt" />
       <jump line="144" column="6" filename="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/model1/Demo.kt" />
+      <jump line="109" column="44" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/misc/SettingActivity.java" />
+      <jump line="9" column="20" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/main/data/DataKo.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
