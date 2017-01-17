@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="F:/KotlinDemo/app/src/main/res/layout/activity_main2.xml" timestamp="1484034407268">
@@ -66,7 +66,6 @@
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/room/model/RoomMgrVipSettingModel.java" timestamp="1484624394343">
         <mark key="[" line="137" column="86" />
       </file>
-      <file name="F:/makefriends-android_root/nativemap-java/java_src/main/java/nativemap/java/Core.java" timestamp="1484624158087" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.branch.sdk.android/library/2.5.1/14f4d46f33dfccdaeef9ff558beb0b359d3e0ae0/library-2.5.1-sources.jar!/io/branch/referral/ServerRequestQueue.java" timestamp="1483514528943">
         <mark key="'" line="63" column="21" />
       </file>
@@ -111,12 +110,12 @@
       <file name="/a.regexp" timestamp="1484555482763">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/Android-CleanArchitecture/presentation/src/main/java/com/fernandocejas/android10/sample/presentation/view/fragment/UserListFragment.java" timestamp="1484643547608">
+      <file name="F:/Android-CleanArchitecture/presentation/src/main/java/com/fernandocejas/android10/sample/presentation/view/fragment/UserListFragment.java" timestamp="1484643723456">
         <mark key="'" line="189" column="16" />
-        <mark key="[" line="53" column="31" />
-        <mark key="]" line="53" column="30" />
-        <mark key="^" line="53" column="30" />
-        <mark key="." line="53" column="30" />
+        <mark key="[" line="91" column="43" />
+        <mark key="]" line="91" column="42" />
+        <mark key="^" line="91" column="42" />
+        <mark key="." line="91" column="42" />
       </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/msg/MsgFeedFragment.java" timestamp="1483432100182">
         <mark key="'" line="69" column="16" />
