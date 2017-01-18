@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="F:/KotlinDemo/app/src/main/res/layout/activity_main2.xml" timestamp="1484034407268">
@@ -8,6 +8,9 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.branch.sdk.android/library/2.5.1/14f4d46f33dfccdaeef9ff558beb0b359d3e0ae0/library-2.5.1-sources.jar!/io/branch/referral/Branch.java" timestamp="1483525603709">
         <mark key="'" line="69" column="15" />
+      </file>
+      <file name="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/net/ApiConnection.java" timestamp="1484705376187">
+        <mark key="'" line="55" column="14" />
       </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/main/MainModel.java" timestamp="1484624228455">
         <mark key="'" line="1580" column="43" />
@@ -63,14 +66,27 @@
         <mark key="^" line="8" column="26" />
         <mark key="." line="8" column="26" />
       </file>
+      <file name="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/net/RestApiImpl.java" timestamp="1484705366963">
+        <mark key="'" line="94" column="63" />
+      </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/room/model/RoomMgrVipSettingModel.java" timestamp="1484624394343">
         <mark key="[" line="137" column="86" />
+      </file>
+      <file name="D:/android/sdk/sources/android-21/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1484705793563">
+        <mark key="'" line="1193" column="11" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.branch.sdk.android/library/2.5.1/14f4d46f33dfccdaeef9ff558beb0b359d3e0ae0/library-2.5.1-sources.jar!/io/branch/referral/ServerRequestQueue.java" timestamp="1483514528943">
         <mark key="'" line="63" column="21" />
       </file>
       <file name="D:/android/sdk/sources/android-25/android/content/Context.java" timestamp="1484034179662">
         <mark key="'" line="79" column="22" />
+      </file>
+      <file name="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/executor/JobExecutor.java" timestamp="1484705846604">
+        <mark key="'" line="43" column="54" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="39" column="12" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="D:/android/sdk/sources/android-23/android/view/View.java" timestamp="1483438614398">
         <mark key="'" line="7423" column="16" />
@@ -146,28 +162,14 @@
         <mark key="." line="53" column="40" />
         <mark key="^" line="53" column="40" />
       </file>
+      <file name="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/entity/mapper/UserEntityDataMapper.java" timestamp="1484706284665">
+        <mark key="'" line="41" column="15" />
+      </file>
       <file name="/fragment.java" timestamp="1484034351284">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="32" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yy.android.yyprotosdk/yyprotosdk/4.2.0/76886010730a085057f9d6121b0670d0499e5e20/yyprotosdk-4.2.0-sources.jar!/com/yyproto/outlet/LoginRequest.java" />
-      <jump line="158" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yy.android.yyprotosdk/yyprotosdk/4.2.0/76886010730a085057f9d6121b0670d0499e5e20/yyprotosdk-4.2.0-sources.jar!/com/yyproto/outlet/LoginRequest.java" />
-      <jump line="218" column="20" filename="F:/makefriends-android_emulator_feature/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SdkWrapper.java" />
-      <jump line="33" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yy.android.yyprotosdk/yyprotosdk/4.2.0/76886010730a085057f9d6121b0670d0499e5e20/yyprotosdk-4.2.0-sources.jar!/com/yyproto/outlet/ILogin.java" />
-      <jump line="150" column="15" filename="F:/makefriends-android_emulator_feature/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SdkWrapper.java" />
-      <jump line="44" column="37" filename="F:/makefriends-android_emulator_feature/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SdkWrapper.java" />
-      <jump line="225" column="23" filename="F:/makefriends-android_emulator_feature/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SdkWrapper.java" />
-      <jump line="11" column="21" filename="F:/makefriends-android_emulator_feature/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SDKCallback.java" />
-      <jump line="38" column="4" filename="D:/android/sdk/sources/android-23/java/lang/annotation/ElementType.java" />
-      <jump line="12" column="28" filename="F:/makefriends-android_emulator_feature/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SDKCallback.java" />
-      <jump line="40" column="4" filename="D:/android/sdk/sources/android-23/java/lang/annotation/RetentionPolicy.java" />
-      <jump line="227" column="24" filename="F:/makefriends-android_emulator_feature/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SdkWrapper.java" />
-      <jump line="149" column="32" filename="F:/makefriends-android_emulator_feature/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SdkWrapper.java" />
-      <jump line="52" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yy.android.yyprotosdk/yyprotosdk/4.2.0/76886010730a085057f9d6121b0670d0499e5e20/yyprotosdk-4.2.0-sources.jar!/com/yy/mobile/YYHandlerMgr.java" />
-      <jump line="154" column="28" filename="F:/makefriends-android_emulator_feature/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SdkWrapper.java" />
-      <jump line="179" column="18" filename="F:/makefriends-android_emulator_feature/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SdkWrapper.java" />
-      <jump line="221" column="17" filename="F:/makefriends-android_emulator_feature/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SdkWrapper.java" />
       <jump line="176" column="15" filename="F:/makefriends-android_emulator_feature/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SdkWrapper.java" />
       <jump line="37" column="17" filename="F:/makefriends-android_emulator_feature/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SdkWrapper.java" />
       <jump line="25" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yy.android.yyprotosdk/yyprotosdk/4.2.0/76886010730a085057f9d6121b0670d0499e5e20/yyprotosdk-4.2.0-sources.jar!/com/yy/mobile/YYHandlerMgr.java" />
@@ -251,10 +253,27 @@
       <jump line="197" column="32" filename="F:/Android-CleanArchitecture/presentation/src/main/java/com/fernandocejas/android10/sample/presentation/view/fragment/UserListFragment.java" />
       <jump line="196" column="32" filename="F:/Android-CleanArchitecture/presentation/src/main/java/com/fernandocejas/android10/sample/presentation/view/fragment/UserListFragment.java" />
       <jump line="189" column="16" filename="F:/Android-CleanArchitecture/presentation/src/main/java/com/fernandocejas/android10/sample/presentation/view/fragment/UserListFragment.java" />
+      <jump line="59" column="16" filename="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/net/ApiConnection.java" />
+      <jump line="83" column="25" filename="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/net/ApiConnection.java" />
+      <jump line="82" column="28" filename="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/net/ApiConnection.java" />
+      <jump line="43" column="25" filename="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/net/ApiConnection.java" />
+      <jump line="94" column="63" filename="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/net/RestApiImpl.java" />
+      <jump line="55" column="14" filename="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/net/ApiConnection.java" />
+      <jump line="38" column="0" filename="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/executor/JobExecutor.java" />
+      <jump line="0" column="0" filename="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/executor/JobExecutor.java" />
+      <jump line="35" column="40" filename="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/executor/JobExecutor.java" />
+      <jump line="1193" column="11" filename="D:/android/sdk/sources/android-21/java/util/concurrent/ThreadPoolExecutor.java" />
+      <jump line="43" column="54" filename="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/executor/JobExecutor.java" />
+      <jump line="28" column="17" filename="D:/android/sdk/sources/android-21/java/util/concurrent/ThreadFactory.java" />
+      <jump line="49" column="24" filename="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/entity/mapper/UserEntityDataMapper.java" />
+      <jump line="22" column="13" filename="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/entity/UserEntity.java" />
+      <jump line="42" column="6" filename="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/entity/mapper/UserEntityDataMapper.java" />
+      <jump line="34" column="13" filename="F:/Android-CleanArchitecture/domain/src/main/java/com/fernandocejas/android10/sample/domain/User.java" />
+      <jump line="41" column="15" filename="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/entity/mapper/UserEntityDataMapper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZSBwdWJsaWMgdm9pZCBleGVjdXRlKEBOb25OdWxsIFJ1bm5hYmxlIHJ1bm5hYmxlKSB7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -263,34 +282,34 @@
         <text>fragment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUgcHVibGljIHZvaWQgZXhlY3V0ZShATm9uTnVsbCBSdW5uYWJsZSBydW5uYWJsZSkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgQ29tcGFuaW9uT2JqZWN0LkNvbXBhbmlvbi5nZXROYW1lKCkK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZSBwdWJsaWMgdm9pZCBleGVjdXRlKEBOb25OdWxsIFJ1bm5hYmxlIHJ1bm5hYmxlKSB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuaSgiTWFpbkFjdGl2aXR5IiwgImhlbGxvIiArIGEpCg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZSBwdWJsaWMgdm9pZCBleGVjdXRlKEBOb25OdWxsIFJ1bm5hYmxlIHJ1bm5hYmxlKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgQ29tcGFuaW9uT2JqZWN0LkNvbXBhbmlvbi5nZXROYW1lKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuaSgiTWFpbkFjdGl2aXR5IiwgImhlbGxvIiArIGEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9ZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9ZWxzZSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUeXBlcy5TTmlnaHRUZWFzZU1zZyBzTmlnaHRUZWFzZU1zZz1uZXcgVHlwZXMuU05pZ2h0VGVhc2VNc2coKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ic</text>
