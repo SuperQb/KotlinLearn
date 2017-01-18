@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="F:/KotlinDemo/app/src/main/res/layout/activity_main2.xml" timestamp="1484034407268">
@@ -35,12 +35,6 @@
         <mark key="]" line="24" column="19" />
         <mark key="^" line="24" column="19" />
         <mark key="." line="24" column="19" />
-      </file>
-      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/Demo.kt" timestamp="1484554868297">
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="20" column="22" />
-        <mark key="^" line="20" column="22" />
-        <mark key="." line="20" column="22" />
       </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/main/fragment/NewRoomsFragment.java" timestamp="1484555469855">
         <mark key="[" line="374" column="4" />
@@ -153,7 +147,7 @@
         <mark key="'" line="254" column="20" />
       </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/res/layout/item_roon_simple_gift_msg.xml" timestamp="1484708981301" />
-      <file name="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/MainActivity.java" timestamp="1484034190693">
+      <file name="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/MainActivity.java" timestamp="1484720747509">
         <mark key="'" line="38" column="31" />
         <mark key="[" line="53" column="41" />
         <mark key="]" line="53" column="40" />
@@ -163,6 +157,7 @@
       <file name="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/entity/mapper/UserEntityDataMapper.java" timestamp="1484706284665">
         <mark key="'" line="41" column="15" />
       </file>
+      <file name="F:/makefriends-android_root/makechannel.gradle" timestamp="1484720753114" />
       <file name="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/repository/UserDataRepository.java" timestamp="1484706502758">
         <mark key="'" line="57" column="90" />
       </file>
