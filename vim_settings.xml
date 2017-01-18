@@ -165,12 +165,14 @@
       <file name="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/entity/mapper/UserEntityDataMapper.java" timestamp="1484706284665">
         <mark key="'" line="41" column="15" />
       </file>
+      <file name="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/repository/UserDataRepository.java" timestamp="1484706502758">
+        <mark key="'" line="57" column="90" />
+      </file>
       <file name="/fragment.java" timestamp="1484034351284">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="15" filename="F:/makefriends-android_emulator_feature/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SdkWrapper.java" />
       <jump line="37" column="17" filename="F:/makefriends-android_emulator_feature/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SdkWrapper.java" />
       <jump line="25" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yy.android.yyprotosdk/yyprotosdk/4.2.0/76886010730a085057f9d6121b0670d0499e5e20/yyprotosdk-4.2.0-sources.jar!/com/yy/mobile/YYHandlerMgr.java" />
       <jump line="171" column="14" filename="F:/makefriends-android_emulator_feature/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SdkWrapper.java" />
@@ -270,6 +272,7 @@
       <jump line="42" column="6" filename="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/entity/mapper/UserEntityDataMapper.java" />
       <jump line="34" column="13" filename="F:/Android-CleanArchitecture/domain/src/main/java/com/fernandocejas/android10/sample/domain/User.java" />
       <jump line="41" column="15" filename="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/entity/mapper/UserEntityDataMapper.java" />
+      <jump line="57" column="90" filename="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/repository/UserDataRepository.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
