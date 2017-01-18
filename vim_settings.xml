@@ -1,8 +1,11 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="F:/KotlinDemo/app/src/main/res/layout/activity_main2.xml" timestamp="1484034407268">
+        <mark key="[" line="12" column="0" />
+      </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/common/CommonModel.java" timestamp="1484721780311">
         <mark key="'" line="167" column="79" />
       </file>
@@ -37,6 +40,9 @@
       <file name="F:/makefriends-android_emulator_feature/makefriends/src/main/java/com/duowan/makefriends/prelogin/PreLoginModel.java" timestamp="1483432262246">
         <mark key="'" line="116" column="31" />
       </file>
+      <file name="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/model2/Demo.java" timestamp="1484731134798">
+        <mark key="[" line="6" column="19" />
+      </file>
       <file name="F:/makefriends-android_root/makefriends/build.gradle" timestamp="1484723823797" />
       <file name="D:/android/sdk/sources/android-25/android/content/Context.java" timestamp="1484034179662">
         <mark key="'" line="79" column="22" />
@@ -56,6 +62,12 @@
       </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/misc/NotificationActivity.java" timestamp="1483438613263">
         <mark key="'" line="67" column="28" />
+      </file>
+      <file name="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/model2/ModelTwo.java" timestamp="1484729581404">
+        <mark key="[" line="9" column="21" />
+      </file>
+      <file name="D:/android/sdk/sources/android-23/android/view/WindowManagerImpl.java" timestamp="1484730007354">
+        <mark key="'" line="84" column="20" />
       </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/main/fragment/FindFragment.java" timestamp="1483945129409">
         <mark key="'" line="687" column="17" />
@@ -86,11 +98,15 @@
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/misc/utils/DataClearManager.java" timestamp="1484721859934">
         <mark key="'" line="177" column="32" />
       </file>
-      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/push/PushReceiver.java" timestamp="1484728018834">
+      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/push/PushReceiver.java" timestamp="1484729387870">
         <mark key="'" line="45" column="38" />
+        <mark key="[" line="94" column="0" />
       </file>
       <file name="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/net/RestApiImpl.java" timestamp="1484705366963">
         <mark key="'" line="94" column="63" />
+      </file>
+      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/room/model/RoomMgrVipSettingModel.java" timestamp="1484624394343">
+        <mark key="[" line="137" column="86" />
       </file>
       <file name="D:/android/sdk/sources/android-21/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1484705793563">
         <mark key="'" line="1193" column="11" />
@@ -101,6 +117,9 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yy.android.yyprotosdk/yyprotosdk/4.2.0/76886010730a085057f9d6121b0670d0499e5e20/yyprotosdk-4.2.0-sources.jar!/com/yyproto/outlet/LoginRequest.java" timestamp="1483432466533">
         <mark key="'" line="138" column="32" />
       </file>
+      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/DemoActivity.kt" timestamp="1484554887118">
+        <mark key="[" line="34" column="40" />
+      </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/msg/model/MsgModel.java" timestamp="1483431859847">
         <mark key="'" line="522" column="11" />
       </file>
@@ -108,6 +127,9 @@
         <mark key="'" line="47" column="13" />
       </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/res/values/strings.xml" timestamp="1484719820121" />
+      <file name="/a.regexp" timestamp="1484555482763">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/msg/MsgFeedFragment.java" timestamp="1483432100182">
         <mark key="'" line="69" column="16" />
       </file>
@@ -115,6 +137,9 @@
         <mark key="'" line="67" column="24" />
       </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/push/PushModel.java" timestamp="1484727676009" />
+      <file name="D:/android/sdk/sources/android-23/android/view/WindowManagerGlobal.java" timestamp="1484729897093">
+        <mark key="'" line="230" column="17" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yy/android-push-sdk/1.0.127/8cb5f1a2865e4459f07dbd8144783b90bfc4774b/android-push-sdk-1.0.127-sources.jar!/com/yy/httpproxy/socketio/RemoteClient.java" timestamp="1484727100648" />
       <file name="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/MainActivity.java" timestamp="1484720747509">
         <mark key="'" line="38" column="31" />
@@ -126,12 +151,11 @@
       <file name="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/repository/UserDataRepository.java" timestamp="1484706502758">
         <mark key="'" line="57" column="90" />
       </file>
+      <file name="/fragment.java" timestamp="1484729586804">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="27" filename="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/MainActivity.java" />
-      <jump line="86" column="3" filename="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/Demo.kt" />
-      <jump line="35" column="32" filename="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/MainActivity.java" />
-      <jump line="99" column="6" filename="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/Demo.kt" />
       <jump line="39" column="70" filename="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/MainActivity.java" />
       <jump line="10" column="22" filename="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/model1/ModelOne.java" />
       <jump line="14" column="15" filename="F:/KotlinDemo/app/build.gradle" />
@@ -228,6 +252,10 @@
       <jump line="1046" column="23" filename="F:/makefriends-android_root/nativemap-java/java_src/main/java/nativemap/java/NativeMapModel.java" />
       <jump line="88" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yy/android-push-sdk/1.0.127/8cb5f1a2865e4459f07dbd8144783b90bfc4774b/android-push-sdk-1.0.127-sources.jar!/com/yy/httpproxy/ProxyClient.java" />
       <jump line="13" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yy/android-push-sdk/1.0.127/8cb5f1a2865e4459f07dbd8144783b90bfc4774b/android-push-sdk-1.0.127-sources.jar!/com/yy/httpproxy/ProxyClient.java" />
+      <jump line="83" column="11" filename="D:/android/sdk/sources/android-23/android/view/WindowManagerImpl.java" />
+      <jump line="230" column="16" filename="D:/android/sdk/sources/android-23/android/view/WindowManagerGlobal.java" />
+      <jump line="49" column="26" filename="D:/android/sdk/sources/android-23/android/view/WindowManagerImpl.java" />
+      <jump line="84" column="20" filename="D:/android/sdk/sources/android-23/android/view/WindowManagerImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
