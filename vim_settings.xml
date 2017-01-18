@@ -91,10 +91,6 @@
       <file name="D:/android/sdk/sources/android-23/android/view/View.java" timestamp="1483438614398">
         <mark key="'" line="7423" column="16" />
       </file>
-      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/misc/SettingActivity.java" timestamp="1484210953269">
-        <mark key="'" line="109" column="44" />
-        <mark key="[" line="109" column="46" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yy.android.yyprotosdk/yyprotosdk/4.2.0/76886010730a085057f9d6121b0670d0499e5e20/yyprotosdk-4.2.0-sources.jar!/com/yyproto/outlet/LoginRequest.java" timestamp="1483432466533">
         <mark key="'" line="138" column="32" />
       </file>
@@ -120,6 +116,7 @@
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/msg/notification/MsgCallbacks.java" timestamp="1483432076576">
         <mark key="'" line="47" column="13" />
       </file>
+      <file name="F:/makefriends-android_root/makefriends/src/main/res/values/strings.xml" timestamp="1484719820121" />
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/main/fragment/FindFragment.java" timestamp="1483945129409">
         <mark key="'" line="687" column="17" />
       </file>
