@@ -29,6 +29,13 @@
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/msg/model/FeedNoticeEngine.java" timestamp="1483432074142">
         <mark key="'" line="188" column="110" />
       </file>
+      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/misc/FavouriteLogic.java" timestamp="1484722779773">
+        <mark key="'" line="74" column="34" />
+        <mark key="[" line="738" column="27" />
+        <mark key="]" line="684" column="78" />
+        <mark key="^" line="684" column="78" />
+        <mark key="." line="684" column="78" />
+      </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/room/adapter/RoomRolesAdapter.java" timestamp="1484623885036">
         <mark key="'" line="92" column="67" />
       </file>
@@ -41,6 +48,13 @@
       <file name="F:/makefriends-android_root/makefriends/build.gradle" timestamp="1484723823797" />
       <file name="D:/android/sdk/sources/android-25/android/content/Context.java" timestamp="1484034179662">
         <mark key="'" line="79" column="22" />
+      </file>
+      <file name="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/executor/JobExecutor.java" timestamp="1484705846604">
+        <mark key="'" line="43" column="54" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="39" column="12" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="D:/android/sdk/sources/android-23/android/view/View.java" timestamp="1483438614398">
         <mark key="'" line="7423" column="16" />
@@ -117,6 +131,13 @@
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/msg/notification/MsgCallbacks.java" timestamp="1483432076576">
         <mark key="'" line="47" column="13" />
       </file>
+      <file name="F:/AccessibilityServiceDemo/app/src/main/java/com/qb/accessibilityservicedemo/MyAccessibilityService.java" timestamp="1484811423721">
+        <mark key="'" line="24" column="29" />
+        <mark key="[" line="34" column="23" />
+        <mark key="]" line="34" column="24" />
+        <mark key="^" line="34" column="24" />
+        <mark key="." line="34" column="24" />
+      </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/res/values/strings.xml" timestamp="1484719820121" />
       <file name="/a.regexp" timestamp="1484555482763">
         <mark key="[" line="0" column="0" />
@@ -132,6 +153,13 @@
         <mark key="'" line="309" column="21" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yy/android-push-sdk/1.0.127/8cb5f1a2865e4459f07dbd8144783b90bfc4774b/android-push-sdk-1.0.127-sources.jar!/com/yy/httpproxy/socketio/RemoteClient.java" timestamp="1484727100648" />
+      <file name="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/MainActivity.java" timestamp="1484720747509">
+        <mark key="'" line="38" column="31" />
+        <mark key="[" line="53" column="41" />
+        <mark key="]" line="53" column="40" />
+        <mark key="." line="53" column="40" />
+        <mark key="^" line="53" column="40" />
+      </file>
       <file name="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/repository/UserDataRepository.java" timestamp="1484706502758">
         <mark key="'" line="57" column="90" />
       </file>
@@ -140,7 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="67" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/room/adapter/RoomRolesAdapter.java" />
       <jump line="74" column="15" filename="F:/Android-CleanArchitecture/presentation/src/main/java/com/fernandocejas/android10/sample/presentation/view/fragment/UserListFragment.java" />
       <jump line="158" column="16" filename="F:/Android-CleanArchitecture/presentation/src/main/java/com/fernandocejas/android10/sample/presentation/view/fragment/UserListFragment.java" />
       <jump line="159" column="16" filename="F:/Android-CleanArchitecture/presentation/src/main/java/com/fernandocejas/android10/sample/presentation/view/fragment/UserListFragment.java" />
@@ -240,6 +267,7 @@
       <jump line="906" column="17" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
       <jump line="6553" column="9" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
       <jump line="908" column="17" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
+      <jump line="24" column="29" filename="F:/AccessibilityServiceDemo/app/src/main/java/com/qb/accessibilityservicedemo/MyAccessibilityService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
