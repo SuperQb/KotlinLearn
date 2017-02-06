@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="N" line="1546" column="25" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
     </globalmarks>
@@ -45,7 +45,6 @@
       <file name="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/model2/Demo.java" timestamp="1484731134798">
         <mark key="[" line="6" column="19" />
       </file>
-      <file name="F:/makefriends-android_root/makefriends/build.gradle" timestamp="1484723823797" />
       <file name="D:/android/sdk/sources/android-25/android/content/Context.java" timestamp="1484034179662">
         <mark key="'" line="79" column="22" />
       </file>
@@ -86,11 +85,9 @@
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/room/RoomManagerActivity.java" timestamp="1484623599589">
         <mark key="'" line="254" column="20" />
       </file>
-      <file name="F:/makefriends-android_root/makefriends/src/main/res/layout/item_roon_simple_gift_msg.xml" timestamp="1484708981301" />
       <file name="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/entity/mapper/UserEntityDataMapper.java" timestamp="1484706284665">
         <mark key="'" line="41" column="15" />
       </file>
-      <file name="F:/makefriends-android_root/makechannel.gradle" timestamp="1484720753114" />
       <file name="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" timestamp="1484790826257">
         <mark key="'" line="908" column="17" />
       </file>
@@ -138,7 +135,6 @@
         <mark key="^" line="34" column="24" />
         <mark key="." line="34" column="24" />
       </file>
-      <file name="F:/makefriends-android_root/makefriends/src/main/res/values/strings.xml" timestamp="1484719820121" />
       <file name="/a.regexp" timestamp="1484555482763">
         <mark key="[" line="0" column="0" />
       </file>
@@ -148,11 +144,12 @@
       <file name="F:/makefriends-android_emulator_feature/makefriends/src/main/java/com/duowan/makefriends/push/PushModel.java" timestamp="1483433909197">
         <mark key="'" line="67" column="24" />
       </file>
-      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/push/PushModel.java" timestamp="1484727676009" />
+      <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/util/ToastUtil.java" timestamp="1486351214340">
+        <mark key="'" line="33" column="21" />
+      </file>
       <file name="D:/android/sdk/sources/android-23/android/view/WindowManagerGlobal.java" timestamp="1484790691085">
         <mark key="'" line="309" column="21" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yy/android-push-sdk/1.0.127/8cb5f1a2865e4459f07dbd8144783b90bfc4774b/android-push-sdk-1.0.127-sources.jar!/com/yy/httpproxy/socketio/RemoteClient.java" timestamp="1484727100648" />
       <file name="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/MainActivity.java" timestamp="1484720747509">
         <mark key="'" line="38" column="31" />
         <mark key="[" line="53" column="41" />
@@ -168,8 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="15" filename="F:/Android-CleanArchitecture/presentation/src/main/java/com/fernandocejas/android10/sample/presentation/view/fragment/UserListFragment.java" />
-      <jump line="158" column="16" filename="F:/Android-CleanArchitecture/presentation/src/main/java/com/fernandocejas/android10/sample/presentation/view/fragment/UserListFragment.java" />
       <jump line="159" column="16" filename="F:/Android-CleanArchitecture/presentation/src/main/java/com/fernandocejas/android10/sample/presentation/view/fragment/UserListFragment.java" />
       <jump line="162" column="4" filename="F:/Android-CleanArchitecture/presentation/src/main/java/com/fernandocejas/android10/sample/presentation/view/fragment/UserListFragment.java" />
       <jump line="50" column="23" filename="F:/Android-CleanArchitecture/presentation/src/main/java/com/fernandocejas/android10/sample/presentation/view/fragment/UserListFragment.java" />
@@ -268,6 +263,8 @@
       <jump line="6553" column="9" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
       <jump line="908" column="17" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
       <jump line="24" column="29" filename="F:/AccessibilityServiceDemo/app/src/main/java/com/qb/accessibilityservicedemo/MyAccessibilityService.java" />
+      <jump line="28" column="26" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/util/ToastUtil.java" />
+      <jump line="33" column="21" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/util/ToastUtil.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
