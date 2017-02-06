@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="N" line="1546" column="25" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
     </globalmarks>
@@ -67,8 +67,8 @@
       <file name="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/model2/ModelTwo.java" timestamp="1484729581404">
         <mark key="[" line="9" column="21" />
       </file>
-      <file name="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/model1/Demo.kt" timestamp="1486363144160">
-        <mark key="[" line="187" column="4" />
+      <file name="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/model1/Demo.kt" timestamp="1486364019454">
+        <mark key="[" line="196" column="3" />
         <mark key="]" line="196" column="3" />
         <mark key="^" line="196" column="3" />
         <mark key="." line="196" column="3" />
