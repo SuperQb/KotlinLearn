@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="N" line="1546" column="25" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
     </globalmarks>
@@ -37,6 +37,9 @@
       </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/msg/model/FeedNoticeEngine.java" timestamp="1483432074142">
         <mark key="'" line="188" column="110" />
+      </file>
+      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/patch/PatchModel.java" timestamp="1486635274851">
+        <mark key="'" line="21" column="25" />
       </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/misc/FavouriteLogic.java" timestamp="1484722779773">
         <mark key="'" line="74" column="34" />
@@ -116,8 +119,8 @@
       <file name="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" timestamp="1484790826257">
         <mark key="'" line="908" column="17" />
       </file>
-      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/MakeFriendsApplication.java" timestamp="1484721901134">
-        <mark key="'" line="397" column="50" />
+      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/MakeFriendsApplication.java" timestamp="1486635679428">
+        <mark key="'" line="222" column="30" />
       </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/prelogin/LoginActivity.java" timestamp="1486632890873" />
       <file name="D:/android/sdk/sources/android-23/android/content/Context.java" timestamp="1484721740946">
@@ -199,9 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="15" filename="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/entity/mapper/UserEntityDataMapper.java" />
-      <jump line="57" column="90" filename="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/repository/UserDataRepository.java" />
-      <jump line="49" column="4" filename="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/entity/mapper/UserEntityJsonMapper.java" />
       <jump line="166" column="53" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/common/CommonModel.java" />
       <jump line="321" column="35" filename="D:/android/sdk/sources/android-23/android/content/Context.java" />
       <jump line="37" column="44" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/misc/AboutActivity.java" />
@@ -299,6 +299,9 @@
       <jump line="182" column="30" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/room/EditInfoActivity.java" />
       <jump line="69" column="28" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/common/sensitive/SensitiveModel.java" />
       <jump line="96" column="21" filename="F:/makefriends-android_root/makefriends/src/main/java/com/yy/mobile/util/AhoCorasickUtils.java" />
+      <jump line="21" column="25" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/patch/PatchModel.java" />
+      <jump line="222" column="30" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/MakeFriendsApplication.java" />
+      <jump line="27" column="45" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/MakeFriendsDirectory.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
