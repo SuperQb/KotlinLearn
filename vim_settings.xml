@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="N" line="1546" column="25" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
     </globalmarks>
@@ -10,6 +10,12 @@
       </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/common/CommonModel.java" timestamp="1486631854577">
         <mark key="'" line="60" column="24" />
+      </file>
+      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/yy/mobile/util/AhoCorasickUtils.java" timestamp="1486633678142">
+        <mark key="'" line="96" column="21" />
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="9" column="52" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.branch.sdk.android/library/2.5.1/14f4d46f33dfccdaeef9ff558beb0b359d3e0ae0/library-2.5.1-sources.jar!/io/branch/referral/Branch.java" timestamp="1483525603709">
         <mark key="'" line="69" column="15" />
@@ -117,15 +123,14 @@
       <file name="D:/android/sdk/sources/android-23/android/content/Context.java" timestamp="1484721740946">
         <mark key="'" line="321" column="35" />
       </file>
+      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/room/EditInfoActivity.java" timestamp="1486633423931">
+        <mark key="'" line="182" column="30" />
+      </file>
       <file name="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/Main2Activity.kt" timestamp="1486362545769">
         <mark key="[" line="31" column="24" />
       </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/misc/utils/DataClearManager.java" timestamp="1484721859934">
         <mark key="'" line="177" column="32" />
-      </file>
-      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/push/PushReceiver.java" timestamp="1484729387870">
-        <mark key="'" line="45" column="38" />
-        <mark key="[" line="94" column="0" />
       </file>
       <file name="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/net/RestApiImpl.java" timestamp="1484705366963">
         <mark key="'" line="94" column="63" />
@@ -147,6 +152,9 @@
       </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/DemoActivity.kt" timestamp="1484554887118">
         <mark key="[" line="34" column="40" />
+      </file>
+      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/common/sensitive/SensitiveModel.java" timestamp="1486633559922">
+        <mark key="'" line="69" column="28" />
       </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/msg/model/MsgModel.java" timestamp="1483431859847">
         <mark key="'" line="522" column="11" />
@@ -191,14 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="40" filename="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/executor/JobExecutor.java" />
-      <jump line="1193" column="11" filename="D:/android/sdk/sources/android-21/java/util/concurrent/ThreadPoolExecutor.java" />
-      <jump line="43" column="54" filename="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/executor/JobExecutor.java" />
-      <jump line="28" column="17" filename="D:/android/sdk/sources/android-21/java/util/concurrent/ThreadFactory.java" />
-      <jump line="49" column="24" filename="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/entity/mapper/UserEntityDataMapper.java" />
-      <jump line="22" column="13" filename="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/entity/UserEntity.java" />
-      <jump line="42" column="6" filename="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/entity/mapper/UserEntityDataMapper.java" />
-      <jump line="34" column="13" filename="F:/Android-CleanArchitecture/domain/src/main/java/com/fernandocejas/android10/sample/domain/User.java" />
       <jump line="41" column="15" filename="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/entity/mapper/UserEntityDataMapper.java" />
       <jump line="57" column="90" filename="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/repository/UserDataRepository.java" />
       <jump line="49" column="4" filename="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/entity/mapper/UserEntityJsonMapper.java" />
@@ -291,55 +291,63 @@
       <jump line="246" column="17" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SdkWrapper.java" />
       <jump line="544" column="29" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SdkWrapper.java" />
       <jump line="120" column="26" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/prelogin/PreLoginModel.java" />
+      <jump line="135" column="32" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/room/EditInfoActivity.java" />
+      <jump line="145" column="56" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/room/EditInfoActivity.java" />
+      <jump line="146" column="12" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/room/EditInfoActivity.java" />
+      <jump line="154" column="68" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/room/EditInfoActivity.java" />
+      <jump line="155" column="83" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/room/EditInfoActivity.java" />
+      <jump line="182" column="30" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/room/EditInfoActivity.java" />
+      <jump line="69" column="28" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/common/sensitive/SensitiveModel.java" />
+      <jump line="96" column="21" filename="F:/makefriends-android_root/makefriends/src/main/java/com/yy/mobile/util/AhoCorasickUtils.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZSBwdWJsaWMgdm9pZCBleGVjdXRlKEBOb25OdWxsIFJ1bm5hYmxlIHJ1bm5hYmxlKSB7Cg==</text>
+        <text encoding="base64">ICogaHR0cDovL3d3dy5jbmJsb2dzLmNvbS94dWRvbmctYnVwdC9wLzM0MzM1MDYuaHRtbAo=</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>mlogin</text>
+        <text>check</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUgcHVibGljIHZvaWQgZXhlY3V0ZShATm9uTnVsbCBSdW5uYWJsZSBydW5uYWJsZSkgewo=</text>
+        <text encoding="base64">ICogaHR0cDovL3d3dy5jbmJsb2dzLmNvbS94dWRvbmctYnVwdC9wLzM0MzM1MDYuaHRtbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZSBwdWJsaWMgdm9pZCBleGVjdXRlKEBOb25OdWxsIFJ1bm5hYmxlIHJ1bm5hYmxlKSB7Cg==</text>
+        <text encoding="base64">ICogaHR0cDovL3d3dy5jbmJsb2dzLmNvbS94dWRvbmctYnVwdC9wLzM0MzM1MDYuaHRtbAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZSBwdWJsaWMgdm9pZCBleGVjdXRlKEBOb25OdWxsIFJ1bm5hYmxlIHJ1bm5hYmxlKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgQ29tcGFuaW9uT2JqZWN0LkNvbXBhbmlvbi5nZXROYW1lKCkK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZSBwdWJsaWMgdm9pZCBleGVjdXRlKEBOb25OdWxsIFJ1bm5hYmxlIHJ1bm5hYmxlKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuaSgiTWFpbkFjdGl2aXR5IiwgImhlbGxvIiArIGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgQ29tcGFuaW9uT2JqZWN0LkNvbXBhbmlvbi5nZXROYW1lKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuaSgiTWFpbkFjdGl2aXR5IiwgImhlbGxvIiArIGEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9ZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9ZWxzZSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
       </register>
     </registers>
     <search>
-      <last-search>mlogin</last-search>
+      <last-search>check</last-search>
       <last-offset />
-      <last-pattern>mlogin</last-pattern>
+      <last-pattern>check</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -361,6 +369,7 @@
         <entry>set noignorecase</entry>
         <entry>string</entry>
         <entry>mlogin</entry>
+        <entry>check</entry>
       </history-search>
       <history-cmd>
         <entry>set</entry>
