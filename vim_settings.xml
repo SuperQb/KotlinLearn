@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="N" line="1546" column="25" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
     </globalmarks>
@@ -42,6 +42,9 @@
       <file name="F:/makefriends-android_emulator_feature/makefriends/src/main/java/com/duowan/makefriends/prelogin/PreLoginModel.java" timestamp="1483432262246">
         <mark key="'" line="116" column="31" />
       </file>
+      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/prelogin/account/AccountManager.java" timestamp="1486626006696">
+        <mark key="'" line="67" column="22" />
+      </file>
       <file name="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/model2/Demo.java" timestamp="1484731134798">
         <mark key="[" line="6" column="19" />
       </file>
@@ -73,6 +76,7 @@
         <mark key="^" line="196" column="3" />
         <mark key="." line="196" column="3" />
       </file>
+      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/prelogin/account/AccountInfo.java" timestamp="1486626037577" />
       <file name="D:/android/sdk/sources/android-23/android/view/WindowManagerImpl.java" timestamp="1484730007354">
         <mark key="'" line="84" column="20" />
       </file>
@@ -81,6 +85,9 @@
       </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/misc/AboutActivity.java" timestamp="1484721752421">
         <mark key="'" line="37" column="44" />
+      </file>
+      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SdkWrapper.java" timestamp="1486626552354">
+        <mark key="'" line="592" column="23" />
       </file>
       <file name="F:/makefriends-android_emulator_feature/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SDKCallback.java" timestamp="1483432613735">
         <mark key="'" line="12" column="28" />
@@ -174,17 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="16" filename="F:/Android-CleanArchitecture/presentation/src/main/java/com/fernandocejas/android10/sample/presentation/view/fragment/UserListFragment.java" />
-      <jump line="162" column="4" filename="F:/Android-CleanArchitecture/presentation/src/main/java/com/fernandocejas/android10/sample/presentation/view/fragment/UserListFragment.java" />
-      <jump line="50" column="23" filename="F:/Android-CleanArchitecture/presentation/src/main/java/com/fernandocejas/android10/sample/presentation/view/fragment/UserListFragment.java" />
-      <jump line="0" column="0" filename="F:/Android-CleanArchitecture/presentation/src/main/java/com/fernandocejas/android10/sample/presentation/view/fragment/UserListFragment.java" />
-      <jump line="48" column="28" filename="F:/Android-CleanArchitecture/presentation/src/main/java/com/fernandocejas/android10/sample/presentation/view/fragment/UserListFragment.java" />
-      <jump line="53" column="30" filename="F:/Android-CleanArchitecture/presentation/src/main/java/com/fernandocejas/android10/sample/presentation/view/fragment/UserListFragment.java" />
-      <jump line="8" column="23" filename="F:/Android-CleanArchitecture/presentation/src/main/java/com/fernandocejas/android10/sample/presentation/view/fragment/UserListFragment.java" />
-      <jump line="170" column="19" filename="F:/Android-CleanArchitecture/presentation/src/main/java/com/fernandocejas/android10/sample/presentation/view/fragment/UserListFragment.java" />
-      <jump line="171" column="48" filename="F:/Android-CleanArchitecture/presentation/src/main/java/com/fernandocejas/android10/sample/presentation/view/fragment/UserListFragment.java" />
-      <jump line="176" column="62" filename="F:/Android-CleanArchitecture/presentation/src/main/java/com/fernandocejas/android10/sample/presentation/view/fragment/UserListFragment.java" />
-      <jump line="141" column="16" filename="F:/Android-CleanArchitecture/presentation/src/main/java/com/fernandocejas/android10/sample/presentation/view/fragment/UserListFragment.java" />
       <jump line="165" column="16" filename="F:/Android-CleanArchitecture/presentation/src/main/java/com/fernandocejas/android10/sample/presentation/view/fragment/UserListFragment.java" />
       <jump line="166" column="13" filename="F:/Android-CleanArchitecture/presentation/src/main/java/com/fernandocejas/android10/sample/presentation/view/fragment/UserListFragment.java" />
       <jump line="129" column="20" filename="F:/Android-CleanArchitecture/presentation/src/main/java/com/fernandocejas/android10/sample/presentation/view/fragment/UserListFragment.java" />
@@ -274,6 +270,17 @@
       <jump line="24" column="29" filename="F:/AccessibilityServiceDemo/app/src/main/java/com/qb/accessibilityservicedemo/MyAccessibilityService.java" />
       <jump line="28" column="26" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/util/ToastUtil.java" />
       <jump line="33" column="21" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/util/ToastUtil.java" />
+      <jump line="272" column="36" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SdkWrapper.java" />
+      <jump line="293" column="17" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SdkWrapper.java" />
+      <jump line="252" column="15" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SdkWrapper.java" />
+      <jump line="310" column="17" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SdkWrapper.java" />
+      <jump line="595" column="17" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SdkWrapper.java" />
+      <jump line="302" column="38" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SdkWrapper.java" />
+      <jump line="67" column="22" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/prelogin/account/AccountManager.java" />
+      <jump line="517" column="18" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SdkWrapper.java" />
+      <jump line="591" column="36" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SdkWrapper.java" />
+      <jump line="592" column="23" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SdkWrapper.java" />
+      <jump line="33" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yy.android.yyprotosdk/yyprotosdk/4.3.3/c9ff7522167751a56b3750546a4aa3f6c41e4847/yyprotosdk-4.3.3-sources.jar!/com/yyproto/outlet/ILogin.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
