@@ -29,8 +29,12 @@
       <file name="F:/makefriends-android_root/nativemap-java/java_src/main/java/nativemap/java/NativeMapModel.java" timestamp="1484722567617">
         <mark key="'" line="1046" column="23" />
       </file>
-      <file name="F:/ServiceDemo/app/src/main/java/com/qb/servicedemo/MainActivity.java" timestamp="1486692472484">
-        <mark key="[" line="24" column="4" />
+      <file name="F:/ServiceDemo/app/src/main/java/com/qb/servicedemo/MainActivity.java" timestamp="1486693328965">
+        <mark key="'" line="19" column="33" />
+        <mark key="[" line="49" column="24" />
+        <mark key="]" line="19" column="33" />
+        <mark key="^" line="19" column="33" />
+        <mark key="." line="19" column="33" />
       </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/common/CustomMenu.java" timestamp="1484623517955">
         <mark key="'" line="190" column="12" />
@@ -66,8 +70,11 @@
       <file name="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/model2/Demo.java" timestamp="1484731134798">
         <mark key="[" line="6" column="19" />
       </file>
-      <file name="F:/ServiceDemo/app/src/main/java/com/qb/servicedemo/MyService.java" timestamp="1486691865930">
+      <file name="F:/ServiceDemo/app/src/main/java/com/qb/servicedemo/MyService.java" timestamp="1486693311705">
         <mark key="[" line="12" column="22" />
+        <mark key="]" line="14" column="9" />
+        <mark key="^" line="14" column="9" />
+        <mark key="." line="14" column="9" />
       </file>
       <file name="D:/android/sdk/sources/android-25/android/content/Context.java" timestamp="1484034179662">
         <mark key="'" line="79" column="22" />
@@ -178,11 +185,11 @@
         <mark key="^" line="34" column="24" />
         <mark key="." line="34" column="24" />
       </file>
-      <file name="F:/ServiceDemo/app/src/main/res/layout/activity_main.xml" timestamp="1486690835249">
-        <mark key="[" line="27" column="28" />
-        <mark key="]" line="25" column="28" />
-        <mark key="^" line="25" column="28" />
-        <mark key="." line="25" column="28" />
+      <file name="F:/ServiceDemo/app/src/main/res/layout/activity_main.xml" timestamp="1486693377324">
+        <mark key="[" line="24" column="10" />
+        <mark key="]" line="25" column="31" />
+        <mark key="^" line="25" column="31" />
+        <mark key="." line="25" column="31" />
       </file>
       <file name="F:/ServiceDemo/app/src/main/java/com/qb/servicedemo/Main2Activity.java" timestamp="1486692113651">
         <mark key="'" line="17" column="2" />
@@ -221,9 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="321" column="35" filename="D:/android/sdk/sources/android-23/android/content/Context.java" />
-      <jump line="37" column="44" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/misc/AboutActivity.java" />
-      <jump line="167" column="79" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/common/CommonModel.java" />
       <jump line="554" column="27" filename="D:/android/sdk/sources/android-23/android/content/Context.java" />
       <jump line="20" column="32" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/misc/utils/DataClearManager.java" />
       <jump line="177" column="32" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/misc/utils/DataClearManager.java" />
@@ -321,6 +325,9 @@
       <jump line="222" column="30" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/MakeFriendsApplication.java" />
       <jump line="27" column="45" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/MakeFriendsDirectory.java" />
       <jump line="15" column="2" filename="F:/ServiceDemo/app/src/main/java/com/qb/servicedemo/Main2Activity.java" />
+      <jump line="49" column="24" filename="F:/ServiceDemo/app/src/main/java/com/qb/servicedemo/MainActivity.java" />
+      <jump line="14" column="9" filename="F:/ServiceDemo/app/src/main/java/com/qb/servicedemo/MyService.java" />
+      <jump line="19" column="33" filename="F:/ServiceDemo/app/src/main/java/com/qb/servicedemo/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
