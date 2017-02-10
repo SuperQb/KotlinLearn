@@ -29,6 +29,9 @@
       <file name="F:/makefriends-android_root/nativemap-java/java_src/main/java/nativemap/java/NativeMapModel.java" timestamp="1484722567617">
         <mark key="'" line="1046" column="23" />
       </file>
+      <file name="F:/ServiceDemo/app/src/main/java/com/qb/servicedemo/MainActivity.java" timestamp="1486692472484">
+        <mark key="[" line="24" column="4" />
+      </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/common/CustomMenu.java" timestamp="1484623517955">
         <mark key="'" line="190" column="12" />
       </file>
@@ -62,6 +65,9 @@
       </file>
       <file name="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/model2/Demo.java" timestamp="1484731134798">
         <mark key="[" line="6" column="19" />
+      </file>
+      <file name="F:/ServiceDemo/app/src/main/java/com/qb/servicedemo/MyService.java" timestamp="1486691865930">
+        <mark key="[" line="12" column="22" />
       </file>
       <file name="D:/android/sdk/sources/android-25/android/content/Context.java" timestamp="1484034179662">
         <mark key="'" line="79" column="22" />
@@ -113,11 +119,11 @@
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/room/RoomManagerActivity.java" timestamp="1484623599589">
         <mark key="'" line="254" column="20" />
       </file>
+      <file name="F:/ServiceDemo/app/src/main/res/layout/activity_main2.xml" timestamp="1486691924251">
+        <mark key="[" line="1" column="9" />
+      </file>
       <file name="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/entity/mapper/UserEntityDataMapper.java" timestamp="1484706284665">
         <mark key="'" line="41" column="15" />
-      </file>
-      <file name="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" timestamp="1484790826257">
-        <mark key="'" line="908" column="17" />
       </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/MakeFriendsApplication.java" timestamp="1486635679428">
         <mark key="'" line="222" column="30" />
@@ -172,6 +178,19 @@
         <mark key="^" line="34" column="24" />
         <mark key="." line="34" column="24" />
       </file>
+      <file name="F:/ServiceDemo/app/src/main/res/layout/activity_main.xml" timestamp="1486690835249">
+        <mark key="[" line="27" column="28" />
+        <mark key="]" line="25" column="28" />
+        <mark key="^" line="25" column="28" />
+        <mark key="." line="25" column="28" />
+      </file>
+      <file name="F:/ServiceDemo/app/src/main/java/com/qb/servicedemo/Main2Activity.java" timestamp="1486692113651">
+        <mark key="'" line="17" column="2" />
+        <mark key="[" line="17" column="56" />
+        <mark key="]" line="17" column="55" />
+        <mark key="^" line="17" column="55" />
+        <mark key="." line="17" column="55" />
+      </file>
       <file name="/a.regexp" timestamp="1484555482763">
         <mark key="[" line="0" column="0" />
       </file>
@@ -197,12 +216,11 @@
       <file name="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/repository/UserDataRepository.java" timestamp="1484706502758">
         <mark key="'" line="57" column="90" />
       </file>
-      <file name="/fragment.java" timestamp="1486633030907">
+      <file name="/fragment.java" timestamp="1486691913822">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="53" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/common/CommonModel.java" />
       <jump line="321" column="35" filename="D:/android/sdk/sources/android-23/android/content/Context.java" />
       <jump line="37" column="44" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/misc/AboutActivity.java" />
       <jump line="167" column="79" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/common/CommonModel.java" />
@@ -302,6 +320,7 @@
       <jump line="21" column="25" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/patch/PatchModel.java" />
       <jump line="222" column="30" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/MakeFriendsApplication.java" />
       <jump line="27" column="45" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/MakeFriendsDirectory.java" />
+      <jump line="15" column="2" filename="F:/ServiceDemo/app/src/main/java/com/qb/servicedemo/Main2Activity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -425,6 +444,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
