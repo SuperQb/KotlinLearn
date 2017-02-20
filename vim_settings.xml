@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="N" line="1546" column="25" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
     </globalmarks>
@@ -104,7 +104,6 @@
         <mark key="^" line="196" column="3" />
         <mark key="." line="196" column="3" />
       </file>
-      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/prelogin/account/AccountInfo.java" timestamp="1486626037577" />
       <file name="D:/android/sdk/sources/android-23/android/view/WindowManagerImpl.java" timestamp="1484730007354">
         <mark key="'" line="84" column="20" />
       </file>
@@ -132,10 +131,10 @@
       <file name="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/entity/mapper/UserEntityDataMapper.java" timestamp="1484706284665">
         <mark key="'" line="41" column="15" />
       </file>
+      <file name="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" timestamp="1487314827343" />
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/MakeFriendsApplication.java" timestamp="1486635679428">
         <mark key="'" line="222" column="30" />
       </file>
-      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/prelogin/LoginActivity.java" timestamp="1486632890873" />
       <file name="D:/android/sdk/sources/android-23/android/content/Context.java" timestamp="1484721740946">
         <mark key="'" line="321" column="35" />
       </file>
