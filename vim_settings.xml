@@ -153,6 +153,12 @@
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/room/EditInfoActivity.java" timestamp="1486633423931">
         <mark key="'" line="182" column="30" />
       </file>
+      <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/nobility/NobilityGodRichPresenter.java" timestamp="1487576506667">
+        <mark key="'" line="35" column="20" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/Main2Activity.kt" timestamp="1486362545769">
         <mark key="[" line="31" column="24" />
       </file>
@@ -246,10 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="15" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/misc/FavouriteLogic.java" />
-      <jump line="766" column="18" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/misc/FavouriteLogic.java" />
-      <jump line="74" column="34" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/misc/FavouriteLogic.java" />
-      <jump line="1046" column="23" filename="F:/makefriends-android_root/nativemap-java/java_src/main/java/nativemap/java/NativeMapModel.java" />
       <jump line="88" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yy/android-push-sdk/1.0.127/8cb5f1a2865e4459f07dbd8144783b90bfc4774b/android-push-sdk-1.0.127-sources.jar!/com/yy/httpproxy/ProxyClient.java" />
       <jump line="13" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yy/android-push-sdk/1.0.127/8cb5f1a2865e4459f07dbd8144783b90bfc4774b/android-push-sdk-1.0.127-sources.jar!/com/yy/httpproxy/ProxyClient.java" />
       <jump line="83" column="11" filename="D:/android/sdk/sources/android-23/android/view/WindowManagerImpl.java" />
@@ -346,10 +348,14 @@
       <jump line="39" column="39" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarRichManHolder.java" />
       <jump line="41" column="16" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarRichManData.java" />
       <jump line="59" column="14" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarActivity.java" />
+      <jump line="41" column="37" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/nobility/NobilityGodRichPresenter.java" />
+      <jump line="64" column="20" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/nobility/NobilityGodRichPresenter.java" />
+      <jump line="95" column="20" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/nobility/NobilityGodRichPresenter.java" />
+      <jump line="35" column="20" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/nobility/NobilityGodRichPresenter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICogaHR0cDovL3d3dy5jbmJsb2dzLmNvbS94dWRvbmctYnVwdC9wLzM0MzM1MDYuaHRtbAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUQUcgPSAiTm9iaWxpdHlHb2RSaWNoUHJlc2VudGUiOwo=</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -361,31 +367,31 @@
         <text encoding="base64">ICogaHR0cDovL3d3dy5jbmJsb2dzLmNvbS94dWRvbmctYnVwdC9wLzM0MzM1MDYuaHRtbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogaHR0cDovL3d3dy5jbmJsb2dzLmNvbS94dWRvbmctYnVwdC9wLzM0MzM1MDYuaHRtbAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUQUcgPSAiTm9iaWxpdHlHb2RSaWNoUHJlc2VudGUiOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZSBwdWJsaWMgdm9pZCBleGVjdXRlKEBOb25OdWxsIFJ1bm5hYmxlIHJ1bm5hYmxlKSB7Cg==</text>
+        <text encoding="base64">ICogaHR0cDovL3d3dy5jbmJsb2dzLmNvbS94dWRvbmctYnVwdC9wLzM0MzM1MDYuaHRtbAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZSBwdWJsaWMgdm9pZCBleGVjdXRlKEBOb25OdWxsIFJ1bm5hYmxlIHJ1bm5hYmxlKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgQ29tcGFuaW9uT2JqZWN0LkNvbXBhbmlvbi5nZXROYW1lKCkK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZSBwdWJsaWMgdm9pZCBleGVjdXRlKEBOb25OdWxsIFJ1bm5hYmxlIHJ1bm5hYmxlKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuaSgiTWFpbkFjdGl2aXR5IiwgImhlbGxvIiArIGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgQ29tcGFuaW9uT2JqZWN0LkNvbXBhbmlvbi5nZXROYW1lKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuaSgiTWFpbkFjdGl2aXR5IiwgImhlbGxvIiArIGEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9ZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set ignorecase</text>
