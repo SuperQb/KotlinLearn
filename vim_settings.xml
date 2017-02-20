@@ -48,6 +48,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yy/android-push-sdk/1.0.127/8cb5f1a2865e4459f07dbd8144783b90bfc4774b/android-push-sdk-1.0.127-sources.jar!/com/yy/httpproxy/ProxyClient.java" timestamp="1484726926129">
         <mark key="'" line="13" column="16" />
       </file>
+      <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/nobility/NobilityGodRichNormalHolder.java" timestamp="1487577362738">
+        <mark key="'" line="45" column="25" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/msg/model/FeedNoticeEngine.java" timestamp="1483432074142">
         <mark key="'" line="188" column="110" />
       </file>
@@ -137,8 +143,17 @@
       <file name="F:/ServiceDemo/app/src/main/res/layout/activity_main2.xml" timestamp="1486691924251">
         <mark key="[" line="1" column="9" />
       </file>
+      <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/nobility/NobilityGodRichNormalData.java" timestamp="1487577334825">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="8" />
+        <mark key="." line="46" column="8" />
+        <mark key="^" line="46" column="8" />
+      </file>
       <file name="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/entity/mapper/UserEntityDataMapper.java" timestamp="1484706284665">
         <mark key="'" line="41" column="15" />
+      </file>
+      <file name="D:/android/sdk/sources/android-22/android/widget/TextView.java" timestamp="1487577372816">
+        <mark key="'" line="3914" column="13" />
       </file>
       <file name="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" timestamp="1487314827343" />
       <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarActivity.java" timestamp="1487575210635">
@@ -252,12 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yy/android-push-sdk/1.0.127/8cb5f1a2865e4459f07dbd8144783b90bfc4774b/android-push-sdk-1.0.127-sources.jar!/com/yy/httpproxy/ProxyClient.java" />
-      <jump line="13" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yy/android-push-sdk/1.0.127/8cb5f1a2865e4459f07dbd8144783b90bfc4774b/android-push-sdk-1.0.127-sources.jar!/com/yy/httpproxy/ProxyClient.java" />
-      <jump line="83" column="11" filename="D:/android/sdk/sources/android-23/android/view/WindowManagerImpl.java" />
-      <jump line="230" column="16" filename="D:/android/sdk/sources/android-23/android/view/WindowManagerGlobal.java" />
-      <jump line="49" column="26" filename="D:/android/sdk/sources/android-23/android/view/WindowManagerImpl.java" />
-      <jump line="84" column="20" filename="D:/android/sdk/sources/android-23/android/view/WindowManagerImpl.java" />
       <jump line="542" column="73" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
       <jump line="1074" column="9" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
       <jump line="1546" column="25" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
@@ -352,10 +361,16 @@
       <jump line="64" column="20" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/nobility/NobilityGodRichPresenter.java" />
       <jump line="95" column="20" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/nobility/NobilityGodRichPresenter.java" />
       <jump line="35" column="20" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/nobility/NobilityGodRichPresenter.java" />
+      <jump line="42" column="50" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/nobility/NobilityGodRichNormalHolder.java" />
+      <jump line="46" column="8" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/nobility/NobilityGodRichNormalData.java" />
+      <jump line="45" column="25" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/nobility/NobilityGodRichNormalHolder.java" />
+      <jump line="3889" column="13" filename="D:/android/sdk/sources/android-22/android/widget/TextView.java" />
+      <jump line="3914" column="13" filename="D:/android/sdk/sources/android-22/android/widget/TextView.java" />
+      <jump line="3923" column="13" filename="D:/android/sdk/sources/android-22/android/widget/TextView.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUQUcgPSAiTm9iaWxpdHlHb2RSaWNoUHJlc2VudGUiOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZGF0YS5nZXRQb3J0cmFpdCgpICE9IG51bGwpIHsK</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -367,28 +382,28 @@
         <text encoding="base64">ICogaHR0cDovL3d3dy5jbmJsb2dzLmNvbS94dWRvbmctYnVwdC9wLzM0MzM1MDYuaHRtbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUQUcgPSAiTm9iaWxpdHlHb2RSaWNoUHJlc2VudGUiOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZGF0YS5nZXRQb3J0cmFpdCgpICE9IG51bGwpIHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogaHR0cDovL3d3dy5jbmJsb2dzLmNvbS94dWRvbmctYnVwdC9wLzM0MzM1MDYuaHRtbAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUQUcgPSAiTm9iaWxpdHlHb2RSaWNoUHJlc2VudGUiOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZSBwdWJsaWMgdm9pZCBleGVjdXRlKEBOb25OdWxsIFJ1bm5hYmxlIHJ1bm5hYmxlKSB7Cg==</text>
+        <text encoding="base64">ICogaHR0cDovL3d3dy5jbmJsb2dzLmNvbS94dWRvbmctYnVwdC9wLzM0MzM1MDYuaHRtbAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZSBwdWJsaWMgdm9pZCBleGVjdXRlKEBOb25OdWxsIFJ1bm5hYmxlIHJ1bm5hYmxlKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgQ29tcGFuaW9uT2JqZWN0LkNvbXBhbmlvbi5nZXROYW1lKCkK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZSBwdWJsaWMgdm9pZCBleGVjdXRlKEBOb25OdWxsIFJ1bm5hYmxlIHJ1bm5hYmxlKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuaSgiTWFpbkFjdGl2aXR5IiwgImhlbGxvIiArIGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgQ29tcGFuaW9uT2JqZWN0LkNvbXBhbmlvbi5nZXROYW1lKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuaSgiTWFpbkFjdGl2aXR5IiwgImhlbGxvIiArIGEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
