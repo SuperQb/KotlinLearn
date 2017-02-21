@@ -211,6 +211,9 @@
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/common/sensitive/SensitiveModel.java" timestamp="1486633559922">
         <mark key="'" line="69" column="28" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.2/e52a7a5d1dbd9f817f314aa28a037d546a9241c2/universal-image-loader-1.9.2-sources.jar!/com/nostra13/universalimageloader/core/ImageLoaderEngine.java" timestamp="1487646084758">
+        <mark key="'" line="47" column="54" />
+      </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/msg/model/MsgModel.java" timestamp="1483431859847">
         <mark key="'" line="522" column="11" />
       </file>
@@ -267,7 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="542" column="73" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
       <jump line="1074" column="9" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
       <jump line="1546" column="25" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
       <jump line="1709" column="59" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
@@ -367,6 +369,7 @@
       <jump line="3889" column="13" filename="D:/android/sdk/sources/android-22/android/widget/TextView.java" />
       <jump line="3914" column="13" filename="D:/android/sdk/sources/android-22/android/widget/TextView.java" />
       <jump line="3923" column="13" filename="D:/android/sdk/sources/android-22/android/widget/TextView.java" />
+      <jump line="47" column="54" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.2/e52a7a5d1dbd9f817f314aa28a037d546a9241c2/universal-image-loader-1.9.2-sources.jar!/com/nostra13/universalimageloader/core/ImageLoaderEngine.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
