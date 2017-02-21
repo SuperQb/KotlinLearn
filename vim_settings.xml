@@ -168,8 +168,8 @@
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/room/EditInfoActivity.java" timestamp="1486633423931">
         <mark key="'" line="182" column="30" />
       </file>
-      <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/nobility/NobilityGodRichPresenter.java" timestamp="1487576506667">
-        <mark key="'" line="35" column="20" />
+      <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/nobility/NobilityGodRichPresenter.java" timestamp="1487667132550">
+        <mark key="'" line="76" column="33" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
@@ -204,6 +204,12 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yy.android.yyprotosdk/yyprotosdk/4.2.0/76886010730a085057f9d6121b0670d0499e5e20/yyprotosdk-4.2.0-sources.jar!/com/yyproto/outlet/LoginRequest.java" timestamp="1483432466533">
         <mark key="'" line="138" column="32" />
+      </file>
+      <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" timestamp="1487667977268">
+        <mark key="'" line="180" column="29" />
+        <mark key="[" line="306" column="29" />
+        <mark key="]" line="306" column="29" />
+        <mark key="." line="306" column="29" />
       </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/DemoActivity.kt" timestamp="1484554887118">
         <mark key="[" line="34" column="40" />
@@ -270,29 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1074" column="9" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
-      <jump line="1546" column="25" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
-      <jump line="1709" column="59" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
-      <jump line="740" column="55" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
-      <jump line="1507" column="16" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
-      <jump line="1506" column="48" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
-      <jump line="1451" column="12" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
-      <jump line="1433" column="20" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
-      <jump line="1393" column="23" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
-      <jump line="1387" column="34" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
-      <jump line="1376" column="16" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
-      <jump line="1351" column="24" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
-      <jump line="1296" column="16" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
-      <jump line="1271" column="28" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
-      <jump line="1227" column="15" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
-      <jump line="1217" column="16" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
-      <jump line="1168" column="16" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
-      <jump line="1154" column="29" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
-      <jump line="1116" column="18" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
-      <jump line="979" column="44" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
-      <jump line="784" column="35" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
-      <jump line="309" column="21" filename="D:/android/sdk/sources/android-23/android/view/WindowManagerGlobal.java" />
-      <jump line="446" column="16" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
       <jump line="521" column="22" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
       <jump line="906" column="17" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
       <jump line="6553" column="9" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
@@ -370,13 +353,36 @@
       <jump line="3914" column="13" filename="D:/android/sdk/sources/android-22/android/widget/TextView.java" />
       <jump line="3923" column="13" filename="D:/android/sdk/sources/android-22/android/widget/TextView.java" />
       <jump line="47" column="54" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.2/e52a7a5d1dbd9f817f314aa28a037d546a9241c2/universal-image-loader-1.9.2-sources.jar!/com/nostra13/universalimageloader/core/ImageLoaderEngine.java" />
+      <jump line="76" column="33" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/nobility/NobilityGodRichPresenter.java" />
+      <jump line="76" column="13" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
+      <jump line="33" column="0" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
+      <jump line="0" column="0" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
+      <jump line="6" column="0" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
+      <jump line="44" column="8" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
+      <jump line="233" column="8" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
+      <jump line="221" column="20" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
+      <jump line="22" column="0" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
+      <jump line="5" column="0" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
+      <jump line="3" column="0" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
+      <jump line="53" column="0" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
+      <jump line="64" column="24" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
+      <jump line="306" column="27" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
+      <jump line="303" column="4" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
+      <jump line="311" column="8" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
+      <jump line="59" column="32" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
+      <jump line="26" column="17" filename="D:/android/sdk/sources/android-22/javax/net/ssl/X509TrustManager.java" />
+      <jump line="117" column="14" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
+      <jump line="121" column="14" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
+      <jump line="137" column="18" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
+      <jump line="180" column="29" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
+      <jump line="237" column="28" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGF0YS5nZXRQb3J0cmFpdCgpICE9IG51bGwpIHsK</text>
+      <register name="&quot;" type="4">
+        <text>ach</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>ach</text>
       </register>
       <register name="/" type="4">
         <text>check</text>
@@ -385,34 +391,34 @@
         <text encoding="base64">ICogaHR0cDovL3d3dy5jbmJsb2dzLmNvbS94dWRvbmctYnVwdC9wLzM0MzM1MDYuaHRtbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGF0YS5nZXRQb3J0cmFpdCgpICE9IG51bGwpIHsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyA8VD4gVCBnZXRDYWNoZShTdHJpbmcga2V5LCBUeXBlIHR5cGUpIHsKICAgICAgICBGaWxlIGNhY2hlRmlsZSA9IGdldENhY2hlTG9jYWxTdHJpbmdGaWxlKGtleSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUQUcgPSAiTm9iaWxpdHlHb2RSaWNoUHJlc2VudGUiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnl0ZVtdIGJ5dGVzID0gbmV3IGJ5dGVbKGludCkgY2FjaGVGaWxlLmxlbmd0aCgpXTsKICAgICAgICAgICAgaW5wdXRTdHJlYW0ucmVhZChieXRlcyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogaHR0cDovL3d3dy5jbmJsb2dzLmNvbS94dWRvbmctYnVwdC9wLzM0MzM1MDYuaHRtbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRTdHJlYW0ucmVhZChieXRlcyk7CiAgICAgICAgICAgIFN0cmluZyByZXN1bHQgPSBuZXcgU3RyaW5nKGJ5dGVzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZSBwdWJsaWMgdm9pZCBleGVjdXRlKEBOb25OdWxsIFJ1bm5hYmxlIHJ1bm5hYmxlKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnl0ZVtdIGJ5dGVzID0gbmV3IGJ5dGVbKGludCkgY2FjaGVGaWxlLmxlbmd0aCgpXTsKICAgICAgICAgICAgaW5wdXRTdHJlYW0ucmVhZChieXRlcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZSBwdWJsaWMgdm9pZCBleGVjdXRlKEBOb25OdWxsIFJ1bm5hYmxlIHJ1bm5hYmxlKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRTdHJlYW0ucmVhZChieXRlcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgQ29tcGFuaW9uT2JqZWN0LkNvbXBhbmlvbi5nZXROYW1lKCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZGF0YS5nZXRQb3J0cmFpdCgpICE9IG51bGwpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuaSgiTWFpbkFjdGl2aXR5IiwgImhlbGxvIiArIGEpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUQUcgPSAiTm9iaWxpdHlHb2RSaWNoUHJlc2VudGUiOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICogaHR0cDovL3d3dy5jbmJsb2dzLmNvbS94dWRvbmctYnVwdC9wLzM0MzM1MDYuaHRtbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZSBwdWJsaWMgdm9pZCBleGVjdXRlKEBOb25OdWxsIFJ1bm5hYmxlIHJ1bm5hYmxlKSB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set ignorecase</text>
+        <text>100</text>
       </register>
     </registers>
     <search>
@@ -450,9 +456,13 @@
         <entry>mLogin</entry>
         <entry>context</entry>
         <entry>set ic</entry>
-        <entry>set so=5</entry>
         <entry>set ingnorecase</entry>
         <entry>set ignorecase</entry>
+        <entry>set so=5</entry>
+        <entry>20g</entry>
+        <entry>50</entry>
+        <entry>76</entry>
+        <entry>100</entry>
       </history-cmd>
       <history-expr />
       <history-input />
