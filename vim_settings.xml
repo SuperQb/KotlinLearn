@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="N" line="1546" column="25" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
     </globalmarks>
@@ -125,6 +125,12 @@
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SdkWrapper.java" timestamp="1486632881848">
         <mark key="'" line="544" column="29" />
       </file>
+      <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarHostHolder.java" timestamp="1487844525488">
+        <mark key="[" line="92" column="101" />
+        <mark key="]" line="93" column="23" />
+        <mark key="^" line="93" column="23" />
+        <mark key="." line="93" column="23" />
+      </file>
       <file name="F:/makefriends-android_emulator_feature/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SDKCallback.java" timestamp="1483432613735">
         <mark key="'" line="12" column="28" />
       </file>
@@ -152,7 +158,6 @@
       <file name="F:/ARouter-master/arouter-api/src/main/java/com/alibaba/android/arouter/facade/Postcard.java" timestamp="1487817439574">
         <mark key="'" line="126" column="43" />
       </file>
-      <file name="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" timestamp="1487314827343" />
       <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarActivity.java" timestamp="1487575210635">
         <mark key="'" line="59" column="14" />
       </file>
@@ -257,8 +262,9 @@
       <file name="D:/android/sdk/sources/android-23/android/view/WindowManagerGlobal.java" timestamp="1484790691085">
         <mark key="'" line="309" column="21" />
       </file>
-      <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarPresenter.java" timestamp="1487818296670">
-        <mark key="'" line="81" column="21" />
+      <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarPresenter.java" timestamp="1487844991504">
+        <mark key="'" line="83" column="21" />
+        <mark key="[" line="39" column="0" />
       </file>
       <file name="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/MainActivity.java" timestamp="1484720747509">
         <mark key="'" line="38" column="31" />
