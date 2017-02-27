@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="N" line="1546" column="25" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
     </globalmarks>
@@ -132,8 +132,8 @@
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SdkWrapper.java" timestamp="1486632881848">
         <mark key="'" line="544" column="29" />
       </file>
-      <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarHostHolder.java" timestamp="1488187067915">
-        <mark key="'" line="94" column="28" />
+      <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarHostHolder.java" timestamp="1488187408868">
+        <mark key="'" line="57" column="8" />
         <mark key="[" line="106" column="19" />
         <mark key="]" line="70" column="28" />
         <mark key="^" line="70" column="28" />
@@ -296,8 +296,8 @@
       <file name="/a.regexp" timestamp="1487924248328">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/engagement/EngagementMainActivity.java" timestamp="1488185526941">
-        <mark key="'" line="1586" column="21" />
+      <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/engagement/EngagementMainActivity.java" timestamp="1488187633602">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/msg/MsgFeedFragment.java" timestamp="1483432100182">
         <mark key="'" line="69" column="16" />
@@ -344,13 +344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3914" column="13" filename="D:/android/sdk/sources/android-22/android/widget/TextView.java" />
-      <jump line="3923" column="13" filename="D:/android/sdk/sources/android-22/android/widget/TextView.java" />
-      <jump line="47" column="54" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.2/e52a7a5d1dbd9f817f314aa28a037d546a9241c2/universal-image-loader-1.9.2-sources.jar!/com/nostra13/universalimageloader/core/ImageLoaderEngine.java" />
-      <jump line="76" column="33" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/nobility/NobilityGodRichPresenter.java" />
-      <jump line="76" column="13" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
-      <jump line="33" column="0" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
-      <jump line="0" column="0" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
       <jump line="6" column="0" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
       <jump line="44" column="8" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
       <jump line="233" column="8" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
@@ -444,6 +437,13 @@
       <jump line="137" column="22" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/engagement/EngagementMessageBroad.java" />
       <jump line="447" column="35" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/engagement/EngagementMessageBroad.java" />
       <jump line="16" column="0" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/util/DimensionUtil.java" />
+      <jump line="110" column="25" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarHostHolder.java" />
+      <jump line="57" column="8" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarHostHolder.java" />
+      <jump line="333" column="8" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/engagement/EngagementMainActivity.java" />
+      <jump line="395" column="0" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/engagement/EngagementMainActivity.java" />
+      <jump line="1128" column="10" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/engagement/EngagementMainActivity.java" />
+      <jump line="1999" column="8" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/engagement/EngagementMainActivity.java" />
+      <jump line="0" column="0" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/engagement/EngagementMainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
