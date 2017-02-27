@@ -5,9 +5,6 @@
       <mark key="N" line="1546" column="25" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
     </globalmarks>
     <filemarks>
-      <file name="F:/KotlinDemo/app/src/main/res/layout/activity_main2.xml" timestamp="1484034407268">
-        <mark key="[" line="12" column="0" />
-      </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/common/CommonModel.java" timestamp="1486631854577">
         <mark key="'" line="60" column="24" />
       </file>
@@ -16,15 +13,6 @@
         <mark key="[" line="9" column="1" />
         <mark key="]" line="9" column="52" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarHostGuideData.java" timestamp="1487923137019">
-        <mark key="'" line="14" column="33" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.branch.sdk.android/library/2.5.1/14f4d46f33dfccdaeef9ff558beb0b359d3e0ae0/library-2.5.1-sources.jar!/io/branch/referral/Branch.java" timestamp="1483525603709">
-        <mark key="'" line="69" column="15" />
       </file>
       <file name="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/net/ApiConnection.java" timestamp="1484705376187">
         <mark key="'" line="55" column="14" />
@@ -35,22 +23,9 @@
       <file name="F:/makefriends-android_root/nativemap-java/java_src/main/java/nativemap/java/NativeMapModel.java" timestamp="1484722567617">
         <mark key="'" line="1046" column="23" />
       </file>
-      <file name="F:/ServiceDemo/app/src/main/java/com/qb/servicedemo/MainActivity.java" timestamp="1486694380908">
-        <mark key="'" line="25" column="33" />
-        <mark key="[" line="19" column="31" />
-        <mark key="]" line="48" column="24" />
-        <mark key="^" line="48" column="24" />
-        <mark key="." line="48" column="24" />
-      </file>
       <file name="D:/android/sdk/sources/android-22/java/util/HashMap.java" timestamp="1487924656953">
         <mark key="'" line="381" column="19" />
         <mark key="j" line="379" column="23" />
-      </file>
-      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/common/CustomMenu.java" timestamp="1484623517955">
-        <mark key="'" line="190" column="12" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yy/android-push-sdk/1.0.127/8cb5f1a2865e4459f07dbd8144783b90bfc4774b/android-push-sdk-1.0.127-sources.jar!/com/yy/httpproxy/ProxyClient.java" timestamp="1484726926129">
-        <mark key="'" line="13" column="16" />
       </file>
       <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/nobility/NobilityGodRichNormalHolder.java" timestamp="1487577362738">
         <mark key="'" line="45" column="25" />
@@ -71,14 +46,8 @@
         <mark key="^" line="684" column="78" />
         <mark key="." line="684" column="78" />
       </file>
-      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/prelogin/PreLoginModel.java" timestamp="1486632887591">
-        <mark key="'" line="120" column="26" />
-      </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/room/adapter/RoomRolesAdapter.java" timestamp="1484623885036">
         <mark key="'" line="92" column="67" />
-      </file>
-      <file name="F:/makefriends-android_emulator_feature/makefriends/src/main/java/com/duowan/makefriends/prelogin/PreLoginModel.java" timestamp="1483432262246">
-        <mark key="'" line="116" column="31" />
       </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/prelogin/account/AccountManager.java" timestamp="1486626006696">
         <mark key="'" line="67" column="22" />
@@ -92,12 +61,6 @@
       <file name="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/model2/Demo.java" timestamp="1484731134798">
         <mark key="[" line="6" column="19" />
       </file>
-      <file name="F:/ARouter-master/arouter-api/src/main/java/com/alibaba/android/arouter/launcher/_ARouter.java" timestamp="1487842343644">
-        <mark key="'" line="330" column="75" />
-      </file>
-      <file name="D:/android/sdk/sources/android-25/android/content/Context.java" timestamp="1484034179662">
-        <mark key="'" line="79" column="22" />
-      </file>
       <file name="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/executor/JobExecutor.java" timestamp="1484705846604">
         <mark key="'" line="43" column="54" />
         <mark key="[" line="40" column="0" />
@@ -105,32 +68,150 @@
         <mark key="^" line="39" column="12" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="D:/android/sdk/sources/android-23/android/view/View.java" timestamp="1483438614398">
-        <mark key="'" line="7423" column="16" />
-      </file>
-      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/misc/FavouriteActivity.java" timestamp="1484722344913">
-        <mark key="'" line="97" column="17" />
-      </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/misc/NotificationActivity.java" timestamp="1483438613263">
         <mark key="'" line="67" column="28" />
       </file>
-      <file name="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/model2/ModelTwo.java" timestamp="1484729581404">
-        <mark key="[" line="9" column="21" />
-      </file>
-      <file name="D:/android/sdk/sources/android-23/android/view/WindowManagerImpl.java" timestamp="1484730007354">
-        <mark key="'" line="84" column="20" />
-      </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/main/fragment/FindFragment.java" timestamp="1483945129409">
         <mark key="'" line="687" column="17" />
-      </file>
-      <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarHostGuideHolder.java" timestamp="1487922124762">
-        <mark key="'" line="13" column="50" />
       </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/misc/AboutActivity.java" timestamp="1484721752421">
         <mark key="'" line="37" column="44" />
       </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SdkWrapper.java" timestamp="1486632881848">
         <mark key="'" line="544" column="29" />
+      </file>
+      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/msg/repository/FeedMessage.java" timestamp="1483431674592">
+        <mark key="'" line="20" column="13" />
+      </file>
+      <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/callback/DiscoverCallback.java" timestamp="1487921921881">
+        <mark key="'" line="18" column="13" />
+      </file>
+      <file name="F:/ServiceDemo/app/src/main/res/layout/activity_main2.xml" timestamp="1486691924251">
+        <mark key="[" line="1" column="9" />
+      </file>
+      <file name="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/entity/mapper/UserEntityDataMapper.java" timestamp="1484706284665">
+        <mark key="'" line="41" column="15" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.alibaba/arouter-annotation/1.0.1/6cd5197cb22242123c06a0f75e7a4338c2e5ffe2/arouter-annotation-1.0.1-sources.jar!/com/alibaba/android/arouter/facade/model/RouteMeta.java" timestamp="1487842407123">
+        <mark key="'" line="93" column="25" />
+      </file>
+      <file name="D:/android/sdk/sources/android-22/android/widget/TextView.java" timestamp="1487577372816">
+        <mark key="'" line="3914" column="13" />
+      </file>
+      <file name="F:/ARouter-master/arouter-api/src/main/java/com/alibaba/android/arouter/facade/Postcard.java" timestamp="1487817439574">
+        <mark key="'" line="126" column="43" />
+      </file>
+      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/room/EditInfoActivity.java" timestamp="1486633423931">
+        <mark key="'" line="182" column="30" />
+      </file>
+      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/misc/utils/DataClearManager.java" timestamp="1484721859934">
+        <mark key="'" line="177" column="32" />
+      </file>
+      <file name="F:/ARouter-master/arouter-api/src/main/java/com/alibaba/android/arouter/core/LogisticsCenter.java" timestamp="1487842414282">
+        <mark key="'" line="212" column="42" />
+        <mark key="[" line="212" column="52" />
+        <mark key="]" line="212" column="51" />
+        <mark key="^" line="212" column="51" />
+        <mark key="." line="212" column="51" />
+      </file>
+      <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarRichManHolder.java" timestamp="1487574420657">
+        <mark key="'" line="39" column="39" />
+        <mark key="[" line="32" column="23" />
+        <mark key="]" line="33" column="3" />
+        <mark key="^" line="33" column="3" />
+        <mark key="." line="33" column="3" />
+      </file>
+      <file name="F:/ARouter-master/arouter-api/src/main/java/com/alibaba/android/arouter/facade/service/PathReplaceService.java" timestamp="1487817329711">
+        <mark key="'" line="13" column="17" />
+      </file>
+      <file name="D:/android/sdk/sources/android-21/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1484705793563">
+        <mark key="'" line="1193" column="11" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.branch.sdk.android/library/2.5.1/14f4d46f33dfccdaeef9ff558beb0b359d3e0ae0/library-2.5.1-sources.jar!/io/branch/referral/ServerRequestQueue.java" timestamp="1483514528943">
+        <mark key="'" line="63" column="21" />
+      </file>
+      <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" timestamp="1487667977268">
+        <mark key="'" line="180" column="29" />
+        <mark key="[" line="306" column="29" />
+        <mark key="]" line="306" column="29" />
+        <mark key="." line="306" column="29" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.2/e52a7a5d1dbd9f817f314aa28a037d546a9241c2/universal-image-loader-1.9.2-sources.jar!/com/nostra13/universalimageloader/core/ImageLoaderEngine.java" timestamp="1487646084758">
+        <mark key="'" line="47" column="54" />
+      </file>
+      <file name="F:/ServiceDemo/app/src/main/java/com/qb/servicedemo/Main2Activity.java" timestamp="1486692113651">
+        <mark key="'" line="17" column="2" />
+        <mark key="[" line="17" column="56" />
+        <mark key="]" line="17" column="55" />
+        <mark key="^" line="17" column="55" />
+        <mark key="." line="17" column="55" />
+      </file>
+      <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/engagement/EngagementMainActivity.java" timestamp="1488189312289">
+        <mark key="'" line="2073" column="66" />
+      </file>
+      <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/util/ToastUtil.java" timestamp="1486351214340">
+        <mark key="'" line="33" column="21" />
+      </file>
+      <file name="D:/android/sdk/sources/android-23/android/view/WindowManagerGlobal.java" timestamp="1484790691085">
+        <mark key="'" line="309" column="21" />
+      </file>
+      <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/engagement/EngagementMessageBroad.java" timestamp="1488186083731">
+        <mark key="'" line="447" column="35" />
+      </file>
+      <file name="F:/KotlinDemo/app/src/main/res/layout/activity_main2.xml" timestamp="1484034407268">
+        <mark key="[" line="12" column="0" />
+      </file>
+      <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarHostGuideData.java" timestamp="1487923137019">
+        <mark key="'" line="14" column="33" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.branch.sdk.android/library/2.5.1/14f4d46f33dfccdaeef9ff558beb0b359d3e0ae0/library-2.5.1-sources.jar!/io/branch/referral/Branch.java" timestamp="1483525603709">
+        <mark key="'" line="69" column="15" />
+      </file>
+      <file name="F:/ServiceDemo/app/src/main/java/com/qb/servicedemo/MainActivity.java" timestamp="1486694380908">
+        <mark key="'" line="25" column="33" />
+        <mark key="[" line="19" column="31" />
+        <mark key="]" line="48" column="24" />
+        <mark key="^" line="48" column="24" />
+        <mark key="." line="48" column="24" />
+      </file>
+      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/common/CustomMenu.java" timestamp="1484623517955">
+        <mark key="'" line="190" column="12" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yy/android-push-sdk/1.0.127/8cb5f1a2865e4459f07dbd8144783b90bfc4774b/android-push-sdk-1.0.127-sources.jar!/com/yy/httpproxy/ProxyClient.java" timestamp="1484726926129">
+        <mark key="'" line="13" column="16" />
+      </file>
+      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/prelogin/PreLoginModel.java" timestamp="1486632887591">
+        <mark key="'" line="120" column="26" />
+      </file>
+      <file name="F:/makefriends-android_emulator_feature/makefriends/src/main/java/com/duowan/makefriends/prelogin/PreLoginModel.java" timestamp="1483432262246">
+        <mark key="'" line="116" column="31" />
+      </file>
+      <file name="F:/ARouter-master/arouter-api/src/main/java/com/alibaba/android/arouter/launcher/_ARouter.java" timestamp="1487842343644">
+        <mark key="'" line="330" column="75" />
+      </file>
+      <file name="D:/android/sdk/sources/android-25/android/content/Context.java" timestamp="1484034179662">
+        <mark key="'" line="79" column="22" />
+      </file>
+      <file name="D:/android/sdk/sources/android-23/android/view/View.java" timestamp="1483438614398">
+        <mark key="'" line="7423" column="16" />
+      </file>
+      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/misc/FavouriteActivity.java" timestamp="1484722344913">
+        <mark key="'" line="97" column="17" />
+      </file>
+      <file name="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/model2/ModelTwo.java" timestamp="1484729581404">
+        <mark key="[" line="9" column="21" />
+      </file>
+      <file name="$USER_HOME$/Desktop/yyloveplugin-android_develop/love/src/main/java/com/duowan/yylove/view/component/EngagementMainComponent.java" timestamp="1488195070973">
+        <mark key="'" line="136" column="27" />
+      </file>
+      <file name="D:/android/sdk/sources/android-23/android/view/WindowManagerImpl.java" timestamp="1484730007354">
+        <mark key="'" line="84" column="20" />
+      </file>
+      <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarHostGuideHolder.java" timestamp="1487922124762">
+        <mark key="'" line="13" column="50" />
       </file>
       <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarHostHolder.java" timestamp="1488187408868">
         <mark key="'" line="57" column="8" />
@@ -142,17 +223,8 @@
       <file name="F:/makefriends-android_emulator_feature/makefriends/src/main/java/com/duowan/makefriends/sdkwrapper/SDKCallback.java" timestamp="1483432613735">
         <mark key="'" line="12" column="28" />
       </file>
-      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/msg/repository/FeedMessage.java" timestamp="1483431674592">
-        <mark key="'" line="20" column="13" />
-      </file>
-      <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/callback/DiscoverCallback.java" timestamp="1487921921881">
-        <mark key="'" line="18" column="13" />
-      </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/room/RoomManagerActivity.java" timestamp="1484623599589">
         <mark key="'" line="254" column="20" />
-      </file>
-      <file name="F:/ServiceDemo/app/src/main/res/layout/activity_main2.xml" timestamp="1486691924251">
-        <mark key="[" line="1" column="9" />
       </file>
       <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/nobility/NobilityGodRichNormalData.java" timestamp="1487923170683">
         <mark key="'" line="37" column="0" />
@@ -173,15 +245,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/entity/mapper/UserEntityDataMapper.java" timestamp="1484706284665">
-        <mark key="'" line="41" column="15" />
-      </file>
-      <file name="D:/android/sdk/sources/android-22/android/widget/TextView.java" timestamp="1487577372816">
-        <mark key="'" line="3914" column="13" />
-      </file>
-      <file name="F:/ARouter-master/arouter-api/src/main/java/com/alibaba/android/arouter/facade/Postcard.java" timestamp="1487817439574">
-        <mark key="'" line="126" column="43" />
-      </file>
       <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarActivity.java" timestamp="1487922095641">
         <mark key="'" line="77" column="37" />
       </file>
@@ -194,9 +257,6 @@
       <file name="F:/yylove-android_root/app/src/main/res/values/strings.xml" timestamp="1488189337026">
         <mark key="'" line="404" column="18" />
       </file>
-      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/room/EditInfoActivity.java" timestamp="1486633423931">
-        <mark key="'" line="182" column="30" />
-      </file>
       <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/nobility/NobilityGodRichPresenter.java" timestamp="1487667132550">
         <mark key="'" line="76" column="33" />
         <mark key="[" line="27" column="0" />
@@ -206,37 +266,14 @@
       <file name="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/Main2Activity.kt" timestamp="1486362545769">
         <mark key="[" line="31" column="24" />
       </file>
-      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/misc/utils/DataClearManager.java" timestamp="1484721859934">
-        <mark key="'" line="177" column="32" />
-      </file>
-      <file name="F:/ARouter-master/arouter-api/src/main/java/com/alibaba/android/arouter/core/LogisticsCenter.java" timestamp="1487842414282">
-        <mark key="'" line="212" column="42" />
-        <mark key="[" line="212" column="52" />
-        <mark key="]" line="212" column="51" />
-        <mark key="^" line="212" column="51" />
-        <mark key="." line="212" column="51" />
-      </file>
       <file name="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/net/RestApiImpl.java" timestamp="1484705366963">
         <mark key="'" line="94" column="63" />
       </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/room/model/RoomMgrVipSettingModel.java" timestamp="1484624394343">
         <mark key="[" line="137" column="86" />
       </file>
-      <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarRichManHolder.java" timestamp="1487574420657">
-        <mark key="'" line="39" column="39" />
-        <mark key="[" line="32" column="23" />
-        <mark key="]" line="33" column="3" />
-        <mark key="^" line="33" column="3" />
-        <mark key="." line="33" column="3" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yy.android.yyprotosdk/yyprotosdk/4.3.3/c9ff7522167751a56b3750546a4aa3f6c41e4847/yyprotosdk-4.3.3-sources.jar!/com/yyproto/outlet/ILogin.java" timestamp="1486631993719">
         <mark key="'" line="17" column="9" />
-      </file>
-      <file name="F:/ARouter-master/arouter-api/src/main/java/com/alibaba/android/arouter/facade/service/PathReplaceService.java" timestamp="1487817329711">
-        <mark key="'" line="13" column="17" />
-      </file>
-      <file name="D:/android/sdk/sources/android-21/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1484705793563">
-        <mark key="'" line="1193" column="11" />
       </file>
       <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/loveshow/download/DownloadModel.java" timestamp="1487924825898">
         <mark key="'" line="26" column="37" />
@@ -245,20 +282,11 @@
         <mark key="^" line="83" column="80" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.branch.sdk.android/library/2.5.1/14f4d46f33dfccdaeef9ff558beb0b359d3e0ae0/library-2.5.1-sources.jar!/io/branch/referral/ServerRequestQueue.java" timestamp="1483514528943">
-        <mark key="'" line="63" column="21" />
-      </file>
       <file name="/Dummy.txt" timestamp="1487923274822">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yy.android.yyprotosdk/yyprotosdk/4.2.0/76886010730a085057f9d6121b0670d0499e5e20/yyprotosdk-4.2.0-sources.jar!/com/yyproto/outlet/LoginRequest.java" timestamp="1483432466533">
         <mark key="'" line="138" column="32" />
-      </file>
-      <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" timestamp="1487667977268">
-        <mark key="'" line="180" column="29" />
-        <mark key="[" line="306" column="29" />
-        <mark key="]" line="306" column="29" />
-        <mark key="." line="306" column="29" />
       </file>
       <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/nobility/NobilityGodRichTopData.java" timestamp="1487923163626">
         <mark key="'" line="18" column="0" />
@@ -273,9 +301,6 @@
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/common/sensitive/SensitiveModel.java" timestamp="1486633559922">
         <mark key="'" line="69" column="28" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.2/e52a7a5d1dbd9f817f314aa28a037d546a9241c2/universal-image-loader-1.9.2-sources.jar!/com/nostra13/universalimageloader/core/ImageLoaderEngine.java" timestamp="1487646084758">
-        <mark key="'" line="47" column="54" />
-      </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/msg/model/MsgModel.java" timestamp="1483431859847">
         <mark key="'" line="522" column="11" />
       </file>
@@ -289,18 +314,8 @@
         <mark key="^" line="34" column="24" />
         <mark key="." line="34" column="24" />
       </file>
-      <file name="F:/ServiceDemo/app/src/main/java/com/qb/servicedemo/Main2Activity.java" timestamp="1486692113651">
-        <mark key="'" line="17" column="2" />
-        <mark key="[" line="17" column="56" />
-        <mark key="]" line="17" column="55" />
-        <mark key="^" line="17" column="55" />
-        <mark key="." line="17" column="55" />
-      </file>
       <file name="/a.regexp" timestamp="1487924248328">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/engagement/EngagementMainActivity.java" timestamp="1488189312289">
-        <mark key="'" line="2073" column="66" />
       </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/msg/MsgFeedFragment.java" timestamp="1483432100182">
         <mark key="'" line="69" column="16" />
@@ -312,19 +327,6 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/util/ToastUtil.java" timestamp="1486351214340">
-        <mark key="'" line="33" column="21" />
-      </file>
-      <file name="D:/android/sdk/sources/android-23/android/view/WindowManagerGlobal.java" timestamp="1484790691085">
-        <mark key="'" line="309" column="21" />
-      </file>
-      <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarPresenter.java" timestamp="1487844991504">
-        <mark key="'" line="82" column="21" />
-        <mark key="[" line="37" column="0" />
-      </file>
-      <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/engagement/EngagementMessageBroad.java" timestamp="1488186083731">
-        <mark key="'" line="447" column="35" />
       </file>
       <file name="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/MainActivity.java" timestamp="1484720747509">
         <mark key="'" line="38" column="31" />
@@ -347,8 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="233" column="8" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
-      <jump line="221" column="20" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
       <jump line="22" column="0" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
       <jump line="5" column="0" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
       <jump line="3" column="0" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/common/httputil/OkHttpUtil.java" />
@@ -447,6 +447,8 @@
       <jump line="0" column="0" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/engagement/EngagementMainActivity.java" />
       <jump line="2073" column="66" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/engagement/EngagementMainActivity.java" />
       <jump line="404" column="18" filename="F:/yylove-android_root/app/src/main/res/values/strings.xml" />
+      <jump line="38" column="13" filename="$USER_HOME$/Desktop/yyloveplugin-android_develop/love/src/main/java/com/duowan/yylove/view/component/EngagementMainComponent.java" />
+      <jump line="136" column="27" filename="$USER_HOME$/Desktop/yyloveplugin-android_develop/love/src/main/java/com/duowan/yylove/view/component/EngagementMainComponent.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
