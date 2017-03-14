@@ -224,13 +224,10 @@
         <mark key="^" line="130" column="18" />
         <mark key="." line="130" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/yyloveplugin-android_develop/love/src/main/java/com/duowan/yylove/model/YYLovePluginModel.java" timestamp="1489394407565">
-        <mark key="'" line="609" column="35" />
-        <mark key="[" line="670" column="49" />
-        <mark key="]" line="670" column="49" />
+      <file name="$USER_HOME$/Desktop/yyloveplugin-android_develop/love/src/main/java/com/duowan/yylove/model/YYLovePluginModel.java" timestamp="1489460619584">
+        <mark key="'" line="760" column="0" />
         <mark key="^" line="670" column="49" />
         <mark key="n" line="304" column="51" />
-        <mark key="." line="670" column="49" />
       </file>
       <file name="F:/ServiceDemo/app/src/main/java/com/qb/servicedemo/MainActivity.java" timestamp="1486694380908">
         <mark key="'" line="25" column="33" />
@@ -421,7 +418,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.alibaba/arouter-annotation/1.0.1/6cd5197cb22242123c06a0f75e7a4338c2e5ffe2/arouter-annotation-1.0.1-sources.jar!/com/alibaba/android/arouter/facade/model/RouteMeta.java" />
       <jump line="93" column="25" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.alibaba/arouter-annotation/1.0.1/6cd5197cb22242123c06a0f75e7a4338c2e5ffe2/arouter-annotation-1.0.1-sources.jar!/com/alibaba/android/arouter/facade/model/RouteMeta.java" />
       <jump line="212" column="42" filename="F:/ARouter-master/arouter-api/src/main/java/com/alibaba/android/arouter/core/LogisticsCenter.java" />
       <jump line="18" column="13" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/callback/DiscoverCallback.java" />
@@ -521,16 +517,17 @@
       <jump line="20" column="13" filename="$USER_HOME$/Desktop/yyloveplugin-android_develop/love/src/main/java/com/duowan/yylove/view/widget/CircleImageView.java" />
       <jump line="6" column="23" filename="$USER_HOME$/Desktop/yyloveplugin-android_develop/love/src/main/res/values/attrs.xml" />
       <jump line="63" column="60" filename="$USER_HOME$/Desktop/yyloveplugin-android_develop/love/src/main/java/com/duowan/yylove/view/component/GiftButtonComponent.java" />
+      <jump line="760" column="0" filename="$USER_HOME$/Desktop/yyloveplugin-android_develop/love/src/main/java/com/duowan/yylove/model/YYLovePluginModel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBNTG9nLmRlYnVnKFRBRywgIm9uQ2FuZGlkYXRlTGlzdFVwZGF0ZU5vaWNlIGFjay5tYWxlQ2FuZGlkYXRlcyIrYWNrLm1hbGVDYW5kaWRhdGVzLmxlbmd0aCsiICBhY2suZmVtYWxlQ2FuZGlkYXRlcyIrYWNrLmZlbWFsZUNhbmRpZGF0ZXMubGVuZ3RoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>sendGetBillboardRequest</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>sendGetBillboardRequest</text>
       </register>
       <register name="/" type="4">
-        <text>candidate</text>
+        <text>榜</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">dGljZSA=</text>
@@ -567,16 +564,14 @@
       </register>
     </registers>
     <search>
-      <last-search>candidate</last-search>
+      <last-search>榜</last-search>
       <last-offset />
-      <last-pattern>candidate</last-pattern>
+      <last-pattern>榜</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>show</entry>
-        <entry>load</entry>
         <entry>fragment</entry>
         <entry>reques</entry>
         <entry>windows</entry>
@@ -595,6 +590,8 @@
         <entry>cand</entry>
         <entry>candidata</entry>
         <entry>candidate</entry>
+        <entry>bili</entry>
+        <entry>榜</entry>
       </history-search>
       <history-cmd>
         <entry>set</entry>
