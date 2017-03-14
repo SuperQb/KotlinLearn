@@ -20,6 +20,9 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yy.android.yyprotosdk/yyprotosdk/4.3.3/c9ff7522167751a56b3750546a4aa3f6c41e4847/yyprotosdk-4.3.3-sources.jar!/com/yyproto/outlet/IProtoMgr.java" timestamp="1486631971943">
         <mark key="'" line="49" column="19" />
       </file>
+      <file name="F:/yyloveplugin-android_develop/love/src/main/java/com/duowan/yylove/model/YYLovePluginModel.java" timestamp="1489484166238">
+        <mark key="'" line="926" column="13" />
+      </file>
       <file name="F:/makefriends-android_root/nativemap-java/java_src/main/java/nativemap/java/NativeMapModel.java" timestamp="1484722567617">
         <mark key="'" line="1046" column="23" />
       </file>
@@ -425,8 +428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="13" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/callback/DiscoverCallback.java" />
-      <jump line="106" column="8" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarActivity.java" />
       <jump line="93" column="28" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarHostHolder.java" />
       <jump line="61" column="11" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarActivity.java" />
       <jump line="77" column="37" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarActivity.java" />
@@ -525,6 +526,8 @@
       <jump line="760" column="0" filename="$USER_HOME$/Desktop/yyloveplugin-android_develop/love/src/main/java/com/duowan/yylove/model/YYLovePluginModel.java" />
       <jump line="138" column="31" filename="F:/yyloveplugin-android_develop/love/src/main/java/com/duowan/yylove/view/fragment/CharmFragment.java" />
       <jump line="39" column="11" filename="F:/yyloveplugin-android_develop/love/src/main/java/com/duowan/yylove/view/fragment/CharmFragment.java" />
+      <jump line="926" column="13" filename="F:/yyloveplugin-android_develop/love/src/main/java/com/duowan/yylove/model/YYLovePluginModel.java" />
+      <jump line="916" column="16" filename="F:/yyloveplugin-android_develop/love/src/main/java/com/duowan/yylove/model/YYLovePluginModel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
