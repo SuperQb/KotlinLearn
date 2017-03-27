@@ -42,6 +42,9 @@
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/prelogin/account/AccountManager.java" timestamp="1486626006696">
         <mark key="'" line="67" column="22" />
       </file>
+      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" timestamp="1490605782235">
+        <mark key="'" line="1671" column="49" />
+      </file>
       <file name="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/model2/Demo.java" timestamp="1484731134798">
         <mark key="[" line="6" column="19" />
       </file>
@@ -384,8 +387,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="11" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarActivity.java" />
-      <jump line="77" column="37" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarActivity.java" />
       <jump line="13" column="6" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarHostGuideData.java" />
       <jump line="13" column="50" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarHostGuideHolder.java" />
       <jump line="32" column="28" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarHostHolder.java" />
@@ -484,6 +485,8 @@
       <jump line="926" column="13" filename="F:/yyloveplugin-android_develop/love/src/main/java/com/duowan/yylove/model/YYLovePluginModel.java" />
       <jump line="916" column="16" filename="F:/yyloveplugin-android_develop/love/src/main/java/com/duowan/yylove/model/YYLovePluginModel.java" />
       <jump line="61" column="44" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfActivity.java" />
+      <jump line="1671" column="49" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
+      <jump line="101" column="18" filename="F:/makefriends-android_root/makefriends/src/main/res/values/werewolf_strings.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
