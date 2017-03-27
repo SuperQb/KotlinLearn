@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="N" line="1546" column="25" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
     </globalmarks>
@@ -243,6 +243,12 @@
       </file>
       <file name="F:/ARouter-master/arouter-api/src/main/java/com/alibaba/android/arouter/launcher/_ARouter.java" timestamp="1487842343644">
         <mark key="'" line="330" column="75" />
+      </file>
+      <file name="F:/makefriends-android_root/nativemap-java/build.gradle" timestamp="1490606226291">
+        <mark key="[" line="87" column="27" />
+        <mark key="]" line="87" column="26" />
+        <mark key="^" line="87" column="26" />
+        <mark key="." line="87" column="26" />
       </file>
       <file name="D:/android/sdk/sources/android-25/android/content/Context.java" timestamp="1484034179662">
         <mark key="'" line="79" column="22" />
