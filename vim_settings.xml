@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="N" line="1546" column="25" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
     </globalmarks>
@@ -140,7 +140,6 @@
       <file name="D:/android/sdk/sources/android-21/java/util/concurrent/ThreadPoolExecutor.java" timestamp="1484705793563">
         <mark key="'" line="1193" column="11" />
       </file>
-      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/msg/WerewolfChatMsgAdapter.java" timestamp="1489981075727" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.branch.sdk.android/library/2.5.1/14f4d46f33dfccdaeef9ff558beb0b359d3e0ae0/library-2.5.1-sources.jar!/io/branch/referral/ServerRequestQueue.java" timestamp="1483514528943">
         <mark key="'" line="63" column="21" />
       </file>
