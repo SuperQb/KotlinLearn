@@ -42,11 +42,11 @@
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/prelogin/account/AccountManager.java" timestamp="1486626006696">
         <mark key="'" line="67" column="22" />
       </file>
-      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" timestamp="1490685647962">
-        <mark key="'" line="598" column="42" />
-        <mark key="[" line="589" column="17" />
-        <mark key="]" line="589" column="22" />
-        <mark key="." line="589" column="22" />
+      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" timestamp="1490685801425">
+        <mark key="'" line="589" column="20" />
+        <mark key="[" line="591" column="0" />
+        <mark key="]" line="591" column="0" />
+        <mark key="." line="591" column="0" />
         <mark key="^" line="589" column="22" />
       </file>
       <file name="F:/KotlinDemo/app/src/main/java/com/qb/kotlindemo/model2/Demo.java" timestamp="1484731134798">
@@ -338,7 +338,7 @@
       <file name="$USER_HOME$/Desktop/yyloveplugin-android_develop/love/src/main/java/com/duowan/yylove/view/widget/CircleImageView.java" timestamp="1489395136085">
         <mark key="'" line="20" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490685081976">
+      <file name="/Dummy.txt" timestamp="1490685817908">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yy.android.yyprotosdk/yyprotosdk/4.2.0/76886010730a085057f9d6121b0670d0499e5e20/yyprotosdk-4.2.0-sources.jar!/com/yyproto/outlet/LoginRequest.java" timestamp="1483432466533">
@@ -400,7 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="447" column="35" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/engagement/EngagementMessageBroad.java" />
       <jump line="16" column="0" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/util/DimensionUtil.java" />
       <jump line="110" column="25" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarHostHolder.java" />
       <jump line="57" column="8" filename="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarHostHolder.java" />
@@ -496,14 +495,15 @@
       <jump line="1761" column="20" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
       <jump line="578" column="28" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
       <jump line="844" column="20" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
-      <jump line="589" column="22" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
-      <jump line="825" column="16" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
       <jump line="598" column="42" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
       <jump line="128" column="28" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfTypes.java" />
+      <jump line="825" column="16" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
+      <jump line="826" column="20" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
+      <jump line="589" column="20" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
@@ -515,31 +515,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc2V0QXR0ZW5kUG9saWNlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgcmVzZXRBbGxTZWF0c1NlbGVjdGVkKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihnZXRNeVNlYXRJbmRleCgpIT1tS2V5SW5mby5wb2xpY2VTZWF0KXsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaG93UG9saWNlRm9yd2FyZCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vx+Wz/b6vs6TIoc/7ss680wo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNob3dQb2xpY2VGb3J3YXJkKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc2V0QXR0ZW5kUG9saWNlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZnJlc2hBbGxTZWF0KCk7Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgcmVzZXRBbGxTZWF0c1NlbGVjdGVkKCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZnJlc2hBbGxTZWF0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZWZyZXNoQWxsU2VhdCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set so=10</text>
