@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="N" line="1546" column="25" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
     </globalmarks>
@@ -20,7 +20,7 @@
       <file name="F:/makefriends-android_root/nativemap-java/java_src/main/java/nativemap/java/NativeMapModel.java" timestamp="1484722567617">
         <mark key="'" line="1046" column="23" />
       </file>
-      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfActivity.java" timestamp="1489981034155">
+      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfActivity.java" timestamp="1490773506814">
         <mark key="'" line="61" column="44" />
       </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/msg/model/FeedNoticeEngine.java" timestamp="1483432074142">
