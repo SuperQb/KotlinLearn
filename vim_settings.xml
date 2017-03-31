@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="N" line="1546" column="25" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
     </globalmarks>
@@ -208,6 +208,7 @@
       <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/engagement/EngagementMessageBroad.java" timestamp="1488186083731">
         <mark key="'" line="447" column="35" />
       </file>
+      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/share/ShareWXModel.java" timestamp="1490952332269" />
       <file name="F:/KotlinDemo/app/src/main/res/layout/activity_main2.xml" timestamp="1484034407268">
         <mark key="[" line="12" column="0" />
       </file>
