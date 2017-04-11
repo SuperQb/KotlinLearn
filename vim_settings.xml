@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks>
       <mark key="N" line="1546" column="25" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
     </globalmarks>
@@ -137,7 +137,13 @@
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfUtils.java" timestamp="1490947324699">
         <mark key="'" line="146" column="19" />
       </file>
-      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/widget/WerewolfShareHeader.java" timestamp="1491891075819" />
+      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/widget/WerewolfShareHeader.java" timestamp="1491891956599">
+        <mark key="'" line="22" column="12" />
+        <mark key="[" line="67" column="4" />
+        <mark key="]" line="70" column="15" />
+        <mark key="^" line="70" column="15" />
+        <mark key="." line="70" column="15" />
+      </file>
       <file name="F:/yylove-android_root/app/src/main/java/com/duowan/yylove/discover/weekstar/WeekStarRichManHolder.java" timestamp="1487574420657">
         <mark key="'" line="39" column="39" />
         <mark key="[" line="32" column="23" />
@@ -225,8 +231,12 @@
         <mark key="^" line="130" column="18" />
         <mark key="." line="130" column="18" />
       </file>
-      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/dialog/WerewolfShareDialog.java" timestamp="1491890986516">
-        <mark key="'" line="158" column="30" />
+      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/dialog/WerewolfShareDialog.java" timestamp="1491891928966">
+        <mark key="'" line="160" column="17" />
+        <mark key="[" line="159" column="31" />
+        <mark key="]" line="160" column="13" />
+        <mark key="^" line="160" column="13" />
+        <mark key="." line="160" column="13" />
       </file>
       <file name="$USER_HOME$/Desktop/yyloveplugin-android_develop/love/src/main/java/com/duowan/yylove/model/YYLovePluginModel.java" timestamp="1489460619584">
         <mark key="'" line="760" column="0" />
@@ -416,10 +426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="28" filename="$USER_HOME$/Desktop/yyloveplugin-android_develop/love/src/main/res/layout/engagement_candidate_avatar.xml" />
-      <jump line="50" column="45" filename="$USER_HOME$/Desktop/yyloveplugin-android_develop/love/src/main/res/layout/yylove_engagement_guest_avatar.xml" />
-      <jump line="58" column="43" filename="$USER_HOME$/Desktop/yyloveplugin-android_develop/love/src/main/res/layout/yylove_engagement_special_guest_avatar.xml" />
-      <jump line="20" column="13" filename="$USER_HOME$/Desktop/yyloveplugin-android_develop/love/src/main/java/com/duowan/yylove/view/widget/CircleImageView.java" />
       <jump line="6" column="23" filename="$USER_HOME$/Desktop/yyloveplugin-android_develop/love/src/main/res/values/attrs.xml" />
       <jump line="63" column="60" filename="$USER_HOME$/Desktop/yyloveplugin-android_develop/love/src/main/java/com/duowan/yylove/view/component/GiftButtonComponent.java" />
       <jump line="760" column="0" filename="$USER_HOME$/Desktop/yyloveplugin-android_develop/love/src/main/java/com/duowan/yylove/model/YYLovePluginModel.java" />
@@ -513,9 +519,13 @@
       <jump line="56" column="12" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/dialog/WerewolfResultDialog.java" />
       <jump line="354" column="19" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/dialog/WerewolfShareDialog.java" />
       <jump line="75" column="8" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/dialog/WerewolfShareDialog.java" />
-      <jump line="159" column="12" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/dialog/WerewolfShareDialog.java" />
       <jump line="84" column="24" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/dialog/WerewolfShareDialog.java" />
       <jump line="158" column="30" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/dialog/WerewolfShareDialog.java" />
+      <jump line="20" column="34" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/widget/WerewolfShareHeader.java" />
+      <jump line="159" column="19" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/dialog/WerewolfShareDialog.java" />
+      <jump line="160" column="17" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/dialog/WerewolfShareDialog.java" />
+      <jump line="70" column="15" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/widget/WerewolfShareHeader.java" />
+      <jump line="22" column="12" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/widget/WerewolfShareHeader.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
