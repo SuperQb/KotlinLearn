@@ -45,8 +45,8 @@
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/prelogin/account/AccountManager.java" timestamp="1486626006696">
         <mark key="'" line="67" column="22" />
       </file>
-      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" timestamp="1492570759599">
-        <mark key="'" line="1493" column="72" />
+      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" timestamp="1492582585388">
+        <mark key="'" line="1495" column="25" />
         <mark key="[" line="2245" column="0" />
         <mark key="]" line="2245" column="86" />
         <mark key="^" line="1151" column="21" />
@@ -429,7 +429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="926" column="13" filename="F:/yyloveplugin-android_develop/love/src/main/java/com/duowan/yylove/model/YYLovePluginModel.java" />
       <jump line="916" column="16" filename="F:/yyloveplugin-android_develop/love/src/main/java/com/duowan/yylove/model/YYLovePluginModel.java" />
       <jump line="61" column="44" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfActivity.java" />
       <jump line="1671" column="49" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
@@ -529,6 +528,7 @@
       <jump line="736" column="13" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
       <jump line="1493" column="72" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
       <jump line="48" column="9" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/IWWCallback.java" />
+      <jump line="1495" column="25" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
