@@ -8,6 +8,9 @@
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/common/CommonModel.java" timestamp="1486631854577">
         <mark key="'" line="60" column="24" />
       </file>
+      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/IWWCallback.java" timestamp="1492570761134">
+        <mark key="'" line="48" column="9" />
+      </file>
       <file name="F:/Android-CleanArchitecture/data/src/main/java/com/fernandocejas/android10/sample/data/net/ApiConnection.java" timestamp="1484705376187">
         <mark key="'" line="55" column="14" />
       </file>
@@ -42,8 +45,8 @@
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/prelogin/account/AccountManager.java" timestamp="1486626006696">
         <mark key="'" line="67" column="22" />
       </file>
-      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" timestamp="1492501301499">
-        <mark key="'" line="736" column="13" />
+      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" timestamp="1492570759599">
+        <mark key="'" line="1493" column="72" />
         <mark key="[" line="2245" column="0" />
         <mark key="]" line="2245" column="86" />
         <mark key="^" line="1151" column="21" />
@@ -426,8 +429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="31" filename="F:/yyloveplugin-android_develop/love/src/main/java/com/duowan/yylove/view/fragment/CharmFragment.java" />
-      <jump line="39" column="11" filename="F:/yyloveplugin-android_develop/love/src/main/java/com/duowan/yylove/view/fragment/CharmFragment.java" />
       <jump line="926" column="13" filename="F:/yyloveplugin-android_develop/love/src/main/java/com/duowan/yylove/model/YYLovePluginModel.java" />
       <jump line="916" column="16" filename="F:/yyloveplugin-android_develop/love/src/main/java/com/duowan/yylove/model/YYLovePluginModel.java" />
       <jump line="61" column="44" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfActivity.java" />
@@ -526,6 +527,8 @@
       <jump line="1480" column="17" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
       <jump line="3765" column="97" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
       <jump line="736" column="13" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
+      <jump line="1493" column="72" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
+      <jump line="48" column="9" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/IWWCallback.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
