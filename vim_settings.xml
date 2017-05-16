@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="N" line="1546" column="25" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
     </globalmarks>
@@ -383,7 +383,8 @@
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/common/sensitive/SensitiveModel.java" timestamp="1486633559922">
         <mark key="'" line="69" column="28" />
       </file>
-      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/dialog/WerewolfSelectRoleDialog.java" timestamp="1494400307106">
+      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/dialog/WerewolfSelectRoleDialog.java" timestamp="1494916415019">
+        <mark key="'" line="125" column="15" />
         <mark key="[" line="269" column="19" />
         <mark key="]" line="314" column="0" />
         <mark key="." line="314" column="0" />
@@ -434,7 +435,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="916" column="16" filename="F:/yyloveplugin-android_develop/love/src/main/java/com/duowan/yylove/model/YYLovePluginModel.java" />
       <jump line="61" column="44" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfActivity.java" />
       <jump line="1671" column="49" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
       <jump line="101" column="18" filename="F:/makefriends-android_root/makefriends/src/main/res/values/werewolf_strings.xml" />
@@ -534,6 +534,7 @@
       <jump line="1493" column="72" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
       <jump line="48" column="9" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/IWWCallback.java" />
       <jump line="1495" column="25" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
+      <jump line="125" column="15" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/dialog/WerewolfSelectRoleDialog.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
