@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="N" line="1546" column="25" filename="D:/android/sdk/sources/android-23/android/view/ViewRootImpl.java" />
     </globalmarks>
@@ -64,6 +64,9 @@
       </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/misc/NotificationActivity.java" timestamp="1483438613263">
         <mark key="'" line="67" column="28" />
+      </file>
+      <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/dialog/WerewolfKillProtect.java" timestamp="1495543330000">
+        <mark key="'" line="24" column="13" />
       </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/main/fragment/FindFragment.java" timestamp="1483945129409">
         <mark key="'" line="687" column="17" />
@@ -435,15 +438,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="791" column="32" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
-      <jump line="1822" column="32" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
-      <jump line="605" column="21" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
-      <jump line="906" column="16" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
-      <jump line="847" column="20" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
-      <jump line="587" column="19" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
-      <jump line="969" column="19" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
-      <jump line="1897" column="17" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
-      <jump line="479" column="19" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
       <jump line="1895" column="19" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
       <jump line="854" column="18" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
       <jump line="799" column="16" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
@@ -535,6 +529,15 @@
       <jump line="138" column="26" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/dialog/WerewolfSelectRoleDialog.java" />
       <jump line="166" column="21" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/dialog/WerewolfSelectRoleDialog.java" />
       <jump line="252" column="16" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/dialog/WerewolfSelectRoleDialog.java" />
+      <jump line="74" column="67" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/dialog/WerewolfKillProtect.java" />
+      <jump line="69" column="99" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/dialog/WerewolfKillProtect.java" />
+      <jump line="64" column="100" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/dialog/WerewolfKillProtect.java" />
+      <jump line="47" column="53" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/dialog/WerewolfKillProtect.java" />
+      <jump line="0" column="31" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/dialog/WerewolfKillProtect.java" />
+      <jump line="40" column="62" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/dialog/WerewolfKillProtect.java" />
+      <jump line="91" column="8" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/dialog/WerewolfKillProtect.java" />
+      <jump line="26" column="39" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/dialog/WerewolfKillProtect.java" />
+      <jump line="24" column="13" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/dialog/WerewolfKillProtect.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -544,7 +547,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>resetVotePK</text>
+        <text>Were</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc2V0QXR0ZW5kUG9saWNlKCk7Cg==</text>
@@ -581,16 +584,14 @@
       </register>
     </registers>
     <search>
-      <last-search>resetVotePK</last-search>
+      <last-search>Were</last-search>
       <last-offset />
-      <last-pattern>resetVotePK</last-pattern>
+      <last-pattern>Were</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>String</entry>
-        <entry>set noignorecase</entry>
         <entry>string</entry>
         <entry>mlogin</entry>
         <entry>check</entry>
@@ -609,6 +610,8 @@
         <entry>reset</entry>
         <entry>resetVote</entry>
         <entry>resetVotePK</entry>
+        <entry>were</entry>
+        <entry>Were</entry>
       </history-search>
       <history-cmd>
         <entry>set</entry>
