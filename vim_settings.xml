@@ -42,6 +42,9 @@
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/room/adapter/RoomRolesAdapter.java" timestamp="1484623885036">
         <mark key="'" line="92" column="67" />
       </file>
+      <file name="E:/newvoiceroom/branches/voiceroomplugin-android_6.6.0_maint/voiceroom/src/main/java/com/yy/mobile/plugin/voiceroom/view/widget/EmptyView.java" timestamp="1502172945931">
+        <mark key="'" line="59" column="19" />
+      </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/prelogin/account/AccountManager.java" timestamp="1486626006696">
         <mark key="'" line="67" column="22" />
       </file>
@@ -61,6 +64,9 @@
         <mark key="]" line="40" column="0" />
         <mark key="^" line="39" column="12" />
         <mark key="." line="40" column="0" />
+      </file>
+      <file name="E:/newvoiceroom/branches/voiceroomplugin-android_6.6.0_maint/voiceroom/src/main/java/com/yy/mobile/plugin/voiceroom/view/fragment/WaitConnectFragment.java" timestamp="1502173064606">
+        <mark key="'" line="67" column="75" />
       </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/misc/NotificationActivity.java" timestamp="1483438613263">
         <mark key="'" line="67" column="28" />
@@ -169,16 +175,15 @@
       <file name="$USER_HOME$/Desktop/yyloveplugin-android_develop/love/src/main/res/layout/yylove_hot_list_comp.xml" timestamp="1489027361971">
         <mark key="'" line="14" column="50" />
       </file>
+      <file name="E:/newvoiceroom/branches/voiceroomplugin-android_6.6.0_maint/voiceroom/src/main/java/com/yy/mobile/plugin/voiceroom/view/adapter/FriendAdapter.java" timestamp="1502173349150">
+        <mark key="'" line="39" column="46" />
+        <mark key="[" line="158" column="97" />
+      </file>
       <file name="D:/android/sdk/sources/android-21/android/view/View.java" timestamp="1489049013479">
         <mark key="'" line="2569" column="33" />
       </file>
       <file name="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/share/ShareModel.java" timestamp="1490948016619">
         <mark key="'" line="170" column="25" />
-      </file>
-      <file name="F:/yyloveplugin-android_develop/love/src/main/java/com/duowan/yylove/view/adapter/RankAdapter.java" timestamp="1489482690318">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.2/e52a7a5d1dbd9f817f314aa28a037d546a9241c2/universal-image-loader-1.9.2-sources.jar!/com/nostra13/universalimageloader/core/ImageLoaderEngine.java" timestamp="1487646084758">
         <mark key="'" line="47" column="54" />
@@ -243,11 +248,6 @@
         <mark key="]" line="160" column="13" />
         <mark key="^" line="160" column="13" />
         <mark key="." line="160" column="13" />
-      </file>
-      <file name="$USER_HOME$/Desktop/yyloveplugin-android_develop/love/src/main/java/com/duowan/yylove/model/YYLovePluginModel.java" timestamp="1489460619584">
-        <mark key="'" line="760" column="0" />
-        <mark key="^" line="670" column="49" />
-        <mark key="n" line="304" column="51" />
       </file>
       <file name="F:/ServiceDemo/app/src/main/java/com/qb/servicedemo/MainActivity.java" timestamp="1486694380908">
         <mark key="'" line="25" column="33" />
@@ -438,10 +438,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="799" column="16" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
-      <jump line="950" column="0" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
-      <jump line="1050" column="12" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
-      <jump line="966" column="17" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
       <jump line="1894" column="17" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
       <jump line="863" column="24" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
       <jump line="603" column="25" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/WerewolfModel.java" />
@@ -538,6 +534,10 @@
       <jump line="24" column="13" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/dialog/WerewolfKillProtect.java" />
       <jump line="108" column="32" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/dialog/WerewolfKillProtect.java" />
       <jump line="260" column="12" filename="F:/makefriends-android_root/makefriends/src/main/java/com/duowan/makefriends/werewolf/widget/WerewolfGroupMatchView.java" />
+      <jump line="59" column="19" filename="E:/newvoiceroom/branches/voiceroomplugin-android_6.6.0_maint/voiceroom/src/main/java/com/yy/mobile/plugin/voiceroom/view/widget/EmptyView.java" />
+      <jump line="120" column="15" filename="E:/newvoiceroom/branches/voiceroomplugin-android_6.6.0_maint/voiceroom/src/main/java/com/yy/mobile/plugin/voiceroom/view/fragment/WaitConnectFragment.java" />
+      <jump line="67" column="75" filename="E:/newvoiceroom/branches/voiceroomplugin-android_6.6.0_maint/voiceroom/src/main/java/com/yy/mobile/plugin/voiceroom/view/fragment/WaitConnectFragment.java" />
+      <jump line="39" column="46" filename="E:/newvoiceroom/branches/voiceroomplugin-android_6.6.0_maint/voiceroom/src/main/java/com/yy/mobile/plugin/voiceroom/view/adapter/FriendAdapter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -547,7 +547,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>Were</text>
+        <text>list</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc2V0QXR0ZW5kUG9saWNlKCk7Cg==</text>
@@ -584,15 +584,14 @@
       </register>
     </registers>
     <search>
-      <last-search>Were</last-search>
+      <last-search>list</last-search>
       <last-offset />
-      <last-pattern>Were</last-pattern>
+      <last-pattern>list</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>string</entry>
         <entry>mlogin</entry>
         <entry>check</entry>
         <entry>put</entry>
@@ -612,6 +611,7 @@
         <entry>resetVotePK</entry>
         <entry>were</entry>
         <entry>Were</entry>
+        <entry>list</entry>
       </history-search>
       <history-cmd>
         <entry>set</entry>
